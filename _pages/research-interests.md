@@ -79,7 +79,10 @@ protein families, basic experience in gene set enrichment analysis.
 <b>Relevant publications:</b><br>
 * <a href='../publication/1_Pinda_A_Web_service_for_detection' 
 style="color:#FF6F6F">Pinda: A 
-Web service for detection and analysis of intraspecies gene duplication events.</a>
+Web service for detection and analysis of intraspecies gene duplication events.</a><br>
+* <a href='../publication/7_Recruitment_of_ubiquitin'
+style="color:#FF6F6F">Recruitment of ubiquitin-activating enzyme UBA1 
+to DNA by poly(ADP-ribose) promotes ATR signalling.</a>
 </font>
 </div></div>
 
