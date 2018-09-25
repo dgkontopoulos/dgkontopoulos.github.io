@@ -5,7 +5,7 @@ Larroque, C., Basbous, J., Kossida, S., Ribeyre, C., and
 Constantinou, A.<sup><a title='Corresponding author'>✉</a></sup>
 (2018). **Recruitment of ubiquitin-activating enzyme UBA1 to DNA by 
 poly(ADP-ribose) promotes ATR signalling.** 
-Life Science Alliance 1(3). <img src='../images/open_access.png'>"
+Life Science Alliance 1(3):e201800096. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/7_Recruitment_of_ubiquitin
 excerpt: '
