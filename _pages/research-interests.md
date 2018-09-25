@@ -47,13 +47,13 @@ style="color:#FF6F6F">Use and misuse of temperature normalisation in
 meta-analyses of thermal responses of biological traits.</a>
 </font>
 </div>
-<img src="../images/evo_thermal_bio.png" style = "max-width:30vw">
+<img src="../images/evo_thermal_bio.png" style = "min-width:13vw;max-width:30vw">
 </div>
 
 <br>
 <h2 style="text-align:right"><b>Evolution of genes and genomes</b></h2>
 <div style = "display:flex; align-items:center;">
-<img src="../images/evolution_of_genes.png" style = "max-width:30vw">
+<img src="../images/evolution_of_genes.png" style = "min-width:13vw;max-width:30vw">
 <div style="text-align: justify;">
 
 <font size = "3">
@@ -121,5 +121,5 @@ style="color:#FF6F6F">Pinda: A
 Web service for detection and analysis of intraspecies gene duplication events.</a>
 </font>
 </div>
-<img src="../images/software_development.png" style = "max-width:30vw">
+<img src="../images/software_development.png" style = "min-width:13vw;max-width:30vw">
 </div>
