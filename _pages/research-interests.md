@@ -42,6 +42,8 @@ basic experience in mathematical modelling.
 
 <br><br>
 <b>Relevant publications:</b><br>
+* <a href='../publication/9_Phytoplankton_thermal_responses_adapt' 
+style="color:#FF6F6F">Phytoplankton thermal responses adapt in the absence of hard thermodynamic constraints.</a><br>
 * <a href='../publication/6_Use_and_misuse_of_temperature' 
 style="color:#FF6F6F">Use and misuse of temperature normalisation in 
 meta-analyses of thermal responses of biological traits.</a>
