@@ -6,9 +6,9 @@ Tsiliki, G., and Kossida, S. (2016). **Structuprint: a scalable and
 extensible tool for two-dimensional representation of protein surfaces.** BMC 
 Structural Biology 16:4. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/4_Structuprint
+permalink: /publication/04_Structuprint
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/4_Structuprint)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/04_Structuprint)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-016-0055-7)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://dgkontopoulos.github.io/Structuprint/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Structuprint)

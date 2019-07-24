@@ -5,9 +5,9 @@ Pawar, S. (2018). **Phytoplankton thermal responses adapt in the absence of hard
 thermodynamic constraints.** 
 bioRxiv. <img src='../images/preprint.png'>"
 collection: publications
-permalink: /publication/9_Phytoplankton_thermal_responses_adapt
+permalink: /publication/09_Phytoplankton_thermal_responses_adapt
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/9_Phytoplankton_thermal_responses_adapt)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/09_Phytoplankton_thermal_responses_adapt)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/452250)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/9_Phytoplankton_thermal_responses_adapt.bib)
 '

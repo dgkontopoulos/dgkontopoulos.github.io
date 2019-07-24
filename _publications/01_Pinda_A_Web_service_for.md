@@ -4,9 +4,9 @@ title: "<b>1\\.</b>
 and analysis of intraspecies gene duplication events.** Computer Methods 
 and Programs in Biomedicine 111(3):711-714."
 collection: publications
-permalink: /publication/1_Pinda_A_Web_service_for_detection
+permalink: /publication/01_Pinda_A_Web_service_for_detection
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/1_Pinda_A_Web_service_for_detection)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/01_Pinda_A_Web_service_for_detection)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](http://orion.mbg.duth.gr/Pinda/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Pinda/)

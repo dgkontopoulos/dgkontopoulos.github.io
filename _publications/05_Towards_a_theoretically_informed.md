@@ -6,9 +6,9 @@ Kontopoulou, T., Ho, H.-C., and García-Carreras, B.
 plague outbreak.** 
 The Medical Journal of Australia 207(11):490-494. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/5_Towards_a_theoretically_informed
+permalink: /publication/05_Towards_a_theoretically_informed
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/5_Towards_a_theoretically_informed)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/05_Towards_a_theoretically_informed)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.5694/mja17.00792)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
 '

@@ -6,9 +6,9 @@ Vaidakis, E., and Mousoulis, G.P. (2015). **Adult Kawasaki disease
 in a European patient: a case report and review of the literature.** Journal 
 of Medical Case Reports 9:75. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/3_Adult_Kawasaki_disease
+permalink: /publication/03_Adult_Kawasaki_disease
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/3_Adult_Kawasaki_disease)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/03_Adult_Kawasaki_disease)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)

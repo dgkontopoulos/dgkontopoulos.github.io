@@ -6,9 +6,9 @@ García-Carreras, B., Sal, S., Smith, T.P., and Pawar, S.
 of thermal responses of biological traits.** 
 PeerJ 6:e4363. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/6_Use_and_misuse_of_temperature
+permalink: /publication/06_Use_and_misuse_of_temperature
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/6_Use_and_misuse_of_temperature)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/06_Use_and_misuse_of_temperature)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://peerj.com/articles/4363/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)

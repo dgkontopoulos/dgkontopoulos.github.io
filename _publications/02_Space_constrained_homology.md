@@ -5,9 +5,9 @@ Vlachakis, D., <u>Kontopoulos, D.G.</u>, and Kossida, S.<sup><a title='Correspon
 RNA-Dependent RNA Polymerase of Dengue (Type II) Virus.** Computational 
 and Mathematical Methods in Medicine 2013:108910. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/2_Space_constrained_homology
+permalink: /publication/02_Space_constrained_homology
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_Space_constrained_homology)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/02_Space_constrained_homology)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.hindawi.com/journals/cmmm/2013/108910/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://dgkontopoulos.github.io/space_molding/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/space_molding)

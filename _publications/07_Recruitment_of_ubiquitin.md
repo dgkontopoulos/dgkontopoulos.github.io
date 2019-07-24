@@ -7,9 +7,9 @@ Constantinou, A.<sup><a title='Corresponding author'>✉</a></sup>
 poly(ADP-ribose) promotes ATR signalling.** 
 Life Science Alliance 1(3):e201800096. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/7_Recruitment_of_ubiquitin
+permalink: /publication/07_Recruitment_of_ubiquitin
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/7_Recruitment_of_ubiquitin)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/07_Recruitment_of_ubiquitin)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.life-science-alliance.org/content/1/3/e201800096)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/7_Recruitment_of_ubiquitin.bib)
 '

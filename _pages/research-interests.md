@@ -42,9 +42,11 @@ basic experience in mathematical modelling.
 
 <br><br>
 <b>Relevant publications:</b><br>
-* <a href='../publication/9_Phytoplankton_thermal_responses_adapt' 
+* <a href='../publication/10_Adaptive_evolution_explains' 
+style="color:#FF6F6F">Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate.</a><br>
+* <a href='../publication/09_Phytoplankton_thermal_responses_adapt' 
 style="color:#FF6F6F">Phytoplankton thermal responses adapt in the absence of hard thermodynamic constraints.</a><br>
-* <a href='../publication/6_Use_and_misuse_of_temperature' 
+* <a href='../publication/06_Use_and_misuse_of_temperature' 
 style="color:#FF6F6F">Use and misuse of temperature normalisation in 
 meta-analyses of thermal responses of biological traits.</a>
 </font>
@@ -79,10 +81,10 @@ protein families, basic experience in gene set enrichment analysis.
 
 <br><br>
 <b>Relevant publications:</b><br>
-* <a href='../publication/1_Pinda_A_Web_service_for_detection' 
+* <a href='../publication/01_Pinda_A_Web_service_for_detection' 
 style="color:#FF6F6F">Pinda: A 
 Web service for detection and analysis of intraspecies gene duplication events.</a><br>
-* <a href='../publication/7_Recruitment_of_ubiquitin'
+* <a href='../publication/07_Recruitment_of_ubiquitin'
 style="color:#FF6F6F">Recruitment of ubiquitin-activating enzyme UBA1 
 to DNA by poly(ADP-ribose) promotes ATR signalling.</a>
 </font>
@@ -112,13 +114,13 @@ distributions</b> (e.g., Debian, Gentoo) and <b>Mac OS X</b>.
 
 <br><br>
 <b>Relevant publications:</b><br>
-* <a href='../publication/4_Structuprint' 
+* <a href='../publication/04_Structuprint' 
 style="color:#FF6F6F">Structuprint: a scalable and extensible tool for 
 two-dimensional representation of protein surfaces.</a>
-<br>* <a href='../publication/2_Space_constrained_homology' 
+<br>* <a href='../publication/02_Space_constrained_homology' 
 style="color:#FF6F6F">Space Constrained Homology Modelling: The 
 Paradigm of the RNA-Dependent RNA Polymerase of Dengue (Type II) Virus.</a>
-<br>* <a href='../publication/1_Pinda_A_Web_service_for_detection' 
+<br>* <a href='../publication/01_Pinda_A_Web_service_for_detection' 
 style="color:#FF6F6F">Pinda: A 
 Web service for detection and analysis of intraspecies gene duplication events.</a>
 </font>
