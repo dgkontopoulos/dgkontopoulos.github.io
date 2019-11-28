@@ -1,7 +1,7 @@
 ---
 title: "<b>9\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 van Sebille, E., Lange, M., Yvon-Durocher, G., Barraclough, T.G., and 
-Pawar, S. (2018). **Phytoplankton thermal responses adapt in the absence of hard 
+Pawar, S. (2019). **Phytoplankton thermal responses adapt in the absence of hard 
 thermodynamic constraints.** 
 bioRxiv. <img src='../images/preprint.png'>"
 collection: publications
@@ -29,13 +29,13 @@ adaptation can - at least partly - overcome such constraints. To shed
 further light on this debate, we perform a phylogenetic meta-analysis 
 of the thermal performance curve of growth rate of phytoplankton - a 
 globally important functional group -, controlling for potential 
-environmental effects. We find that thermodynamic constraints have a 
+environmental effects (habitat type and thermal regime). We find that thermodynamic constraints have a 
 minor influence on the shape of the curve. In particular, we detect a 
-very weak increase of the maximum curve height with the temperature at 
+very weak increase of maximum performance with the temperature at 
 which the curve peaks, suggesting a weak "hotter-is-better" constraint. 
 Also, instead of a constant thermal sensitivity of growth across species, 
-as might be expected from strong constraints, we detect phylogenetic 
-signal in this as well as all other curve parameters. Our results suggest 
+as might be expected from strong constraints, we find that all aspects of 
+the thermal performance curve evolve along the phylogeny. Our results suggest 
 that phytoplankton thermal performance curves adapt to thermal 
 environments largely in the absence of hard thermodynamic constraints.
 </p>
