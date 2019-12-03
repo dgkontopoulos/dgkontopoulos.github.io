@@ -18,9 +18,9 @@ BSc in Molecular Biology and Genetics from the
 <a href="http://mbg.duth.gr/index.php/en/">Democritus University of 
 Thrace</a>. I then proceeded to do a MRes in Biodiversity Informatics and 
 Genomics at Imperial College London, which I completed with Distinction. 
-Currently, I am pursuing a PhD 
-degree at Imperial College London, trying to detect factors that constrain 
-the ability of ectotherms to adapt to various thermal environments.
+Following this, I pursued a PhD degree at Imperial College London (from 2015 to 2019), in 
+which I examined likely constraints on the ability of 
+ectotherms to adapt to various thermal environments.
 <br><br>
 For more information, click on the tabs at the top of this page.
 </font>
