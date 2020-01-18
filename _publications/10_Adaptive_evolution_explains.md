@@ -1,7 +1,7 @@
 ---
 title: "<b>10\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
-Smith, T.P., Lange, Barraclough, T.G., and 
-Pawar, S. (2019). **Adaptive evolution explains the present-day distribution 
+Smith, T.P., Barraclough, T.G., and 
+Pawar, S. (2019). **Adaptive evolution shapes the present-day distribution 
 of the thermal sensitivity of population growth rate.** 
 bioRxiv. <img src='../images/preprint.png'>"
 collection: publications
@@ -18,35 +18,37 @@ excerpt: '
 ### Abstract:
 
 <p style='text-align: justify;'>
-Developing a thorough understanding of how ectotherm physiology adapts 
-to different thermal environments is of crucial importance, especially 
-in the face of climate change. In particular, the study of how the 
-relationship between trait performance and temperature (the "thermal 
-performance curve"; TPC) evolves has been receiving increasing attention 
-over the past years. A key aspect of the TPC is the thermal sensitivity, 
-i.e., the rate at which trait values increase with temperature within 
-temperature ranges typically experienced by the organism. For a given 
-trait, the distribution of thermal sensitivity values across species is 
-typically right-skewed. The mechanisms that underlie the shape of this 
-distribution are hotly debated, ranging from strongly thermodynamically 
-constrained evolution to adaptive evolution that can partly overcome 
-thermodynamic constraints. Here we take a phylogenetic comparative 
-approach and examine the evolution of the thermal sensitivity of 
-population growth rate across phytoplankton and prokaryotes. We find 
-that thermal sensitivity is moderately phylogenetically heritable and 
-that the shape of its distribution is the outcome of frequent 
-evolutionary convergence. More precisely, bursts of rapid evolution in 
-thermal sensitivity can be detected throughout the phylogeny, increasing 
-the amount of overlap among the distributions of thermal sensitivity of 
-different clades. We obtain qualitatively similar results from 
-evolutionary analyses of the thermal sensitivities of two underlying 
-physiological traits, net photosynthesis rate and respiration rate of 
-plants. Finally, we show that part of the variation in thermal 
-sensitivity is driven by latitude, potentially as an adaptation to the 
-magnitude of temperature fluctuations. Overall, our results indicate 
-that adaptation can lead to large shifts in thermal sensitivity, 
-suggesting that attention needs to be paid towards elucidating the 
-implications of these evolutionary patterns for ecosystem function.
+Developing a thorough understanding of how ectotherm physiology adapts to 
+different thermal environments is of crucial importance, especially in the 
+face of global climate change. A key aspect of an organism's thermal performance 
+curve - the relationship between fitness-related trait performance and temperature - 
+is its thermal sensitivity, i.e., the rate at which trait values increase 
+with temperature within its typically-experienced thermal range. For a 
+given trait, the distribution of thermal sensitivities across species, 
+often quantified as "activation energy" values, is typically right-skewed. 
+Currently, the mechanisms that generate this distribution are unclear, 
+with considerable debate about the role of thermodynamic constraints vs 
+adaptive evolution. Here, using a phylogenetic comparative approach, we 
+study the evolution of the thermal sensitivity of population growth rate 
+across phytoplankton (Cyanobacteria and eukaryotic microalgae) and 
+prokaryotes (bacteria and archaea), two microbial groups that play a major 
+role in the global carbon cycle. We find that thermal sensitivity across 
+these groups is moderately phylogenetically heritable, and that its 
+distribution is shaped by repeated evolutionary convergence throughout 
+its parameter space. More precisely, we detect bursts of adaptive 
+evolution in thermal sensitivity, increasing the amount of overlap among 
+its distributions in different clades. We obtain qualitatively similar 
+results from evolutionary analyses of the thermal sensitivities of two 
+physiological rates underlying growth rate: net photosynthesis and 
+respiration of plants. Furthermore, we find that these episodes of 
+evolutionary convergence are partly driven by two opposing forces: decrease 
+in thermal sensitivity due to environmental fluctuations and increase due 
+to adaptation to stable environments. Overall, our results indicate that 
+adaptation can lead to large and relatively rapid shifts in thermal 
+sensitivity, especially in microbes where rapid evolution can take place 
+at ecological time scales. Thus, more attention needs to be paid to 
+elucidating the implications of rapid evolution in organismal thermal 
+sensitivity for ecosystem functioning.
 
 </p>
 
