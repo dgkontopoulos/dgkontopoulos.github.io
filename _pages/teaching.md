@@ -27,6 +27,13 @@ Methods in Ecology and Evolution", Imperial College London, 2014.
 Imperial College London, 2014.
 
 <br>
+<h2><b>Workshops presented</b></h2>
+
+<b>1\.</b> "<b>How to generate topological constraints using the Open Tree of Life</b>", 
+Silwood Computer Skillz Workshop, Imperial College London, March 30th, 2017.
+\[[<span class="underline-on-hover" style="color:#FF6F6F">Jupyter notebook</span>](https://github.com/SilwoodComputerSkillz/SilwoodComputerSkillz.github.io/blob/master/scripts/OTL-Dimitris.ipynb)\]
+
+<br>
 <h2><b>Others</b></h2>
 
 <b>1\. Tutor</b> for the "Computational Methods in Ecology and Evolution" 
