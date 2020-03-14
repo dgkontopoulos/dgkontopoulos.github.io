@@ -3,7 +3,7 @@ title: "<b>9\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>âœ
 van Sebille, E., Lange, M., Yvon-Durocher, G., Barraclough, T.G., and 
 Pawar, S. (2020). **Phytoplankton thermal responses adapt in the absence of hard 
 thermodynamic constraints.** 
-Evolution."
+Evolution. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/09_Phytoplankton_thermal_responses_adapt
 excerpt: '
