@@ -42,8 +42,8 @@ basic experience in mathematical modelling.
 
 <br><br>
 <b>Relevant publications:</b><br>
-* <a href='../publication/10_Adaptive_evolution_explains' 
-style="color:#FF6F6F">Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate.</a><br>
+* <a href='../publication/10_Adaptive_evolution_shapes' 
+style="color:#FF6F6F">Adaptive evolution shapes the present-day distribution of the thermal sensitivity of population growth rate.</a><br>
 * <a href='../publication/09_Phytoplankton_thermal_responses_adapt' 
 style="color:#FF6F6F">Phytoplankton thermal responses adapt in the absence of hard thermodynamic constraints.</a><br>
 * <a href='../publication/06_Use_and_misuse_of_temperature' 
