@@ -1,14 +1,16 @@
 ---
 title: "<b>10\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Smith, T.P., Barraclough, T.G., and 
-Pawar, S. (2019). **Adaptive evolution shapes the present-day distribution 
+Pawar, S. (2020). **Adaptive evolution shapes the present-day distribution 
 of the thermal sensitivity of population growth rate.** 
-bioRxiv. <img src='../images/preprint.png'>"
+PLOS Biology (in press). <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/10_Adaptive_evolution_shapes
 excerpt: '
   [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/10_Adaptive_evolution_shapes)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/712885)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)
 '
 ---
@@ -41,16 +43,18 @@ its distributions in different clades. We obtain qualitatively similar
 results from evolutionary analyses of the thermal sensitivities of two 
 physiological rates underlying growth rate: net photosynthesis and 
 respiration of plants. Furthermore, we find that these episodes of 
-evolutionary convergence are partly driven by two opposing forces: decrease 
+evolutionary convergence are consistent with two opposing forces: decrease 
 in thermal sensitivity due to environmental fluctuations and increase due 
 to adaptation to stable environments. Overall, our results indicate that 
 adaptation can lead to large and relatively rapid shifts in thermal 
-sensitivity, especially in microbes where rapid evolution can take place 
-at ecological time scales. Thus, more attention needs to be paid to 
+sensitivity, especially in microbes where rapid evolution can occur 
+at short time scales. Thus, more attention needs to be paid to 
 elucidating the implications of rapid evolution in organismal thermal 
 sensitivity for ecosystem functioning.
 
 </p>
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/712885)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)
