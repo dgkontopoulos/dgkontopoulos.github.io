@@ -81,6 +81,9 @@ protein families, basic experience in gene set enrichment analysis.
 
 <br><br>
 <b>Relevant publications:</b><br>
+* <a href='../publication/11_Higher_temperatures_worsen' 
+style="color:#FF6F6F">Higher temperatures worsen the effects of mutations 
+on protein stability.</a><br>
 * <a href='../publication/01_Pinda_A_Web_service_for_detection' 
 style="color:#FF6F6F">Pinda: A 
 Web service for detection and analysis of intraspecies gene duplication events.</a><br>
