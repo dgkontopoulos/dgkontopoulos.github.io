@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
+<div id="adobe-dc-view" style="height: 1000; width: 1000; max-width:100vw"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
@@ -15,7 +15,6 @@ redirect_from:
 		adobeDCView.previewFile({
 			content:{location: {url: "http://dgkontopoulos.io/cv_Kontopoulos_DG.pdf"}},
 			metaData:{fileName: "cv_Kontopoulos_DG.pdf"}
-		}, {embedMode: "IN_LINE"});
+		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
-
