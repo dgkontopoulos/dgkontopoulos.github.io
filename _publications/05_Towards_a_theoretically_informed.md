@@ -9,7 +9,7 @@ collection: publications
 permalink: /publication/05_Towards_a_theoretically_informed
 excerpt: '
   [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/05_Towards_a_theoretically_informed)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.5694/mja17.00792)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
 '
 ---
@@ -38,5 +38,5 @@ guidelines for successfully controlling and eliminating outbreaks of
 the rakghoul plague in Australian states.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.5694/mja17.00792)
+[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
