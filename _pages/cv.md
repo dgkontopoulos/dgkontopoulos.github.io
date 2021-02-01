@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div id="adobe-dc-view" style="height: 1000; width: 1000; max-width:100vw"></div>
+<div id="adobe-dc-view" style="height: 1000px; width: 1000px; max-width:100vw"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
