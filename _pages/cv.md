@@ -7,4 +7,15 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="http://docs.google.com/viewer?url=http://dgkontopoulos.io/cv_Kontopoulos_DG.pdf&embedded=true" height="1000" width = "1000" style = "max-width:100vw" frameborder="0"></iframe>
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "00e8dfd81d9d4116ae43565b4f26e6aa", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "http://dgkontopoulos.io/cv_Kontopoulos_DG.pdf"}},
+			metaData:{fileName: "cv_Kontopoulos_DG.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
+
