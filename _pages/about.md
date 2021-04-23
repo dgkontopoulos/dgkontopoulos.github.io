@@ -18,9 +18,15 @@ BSc in Molecular Biology and Genetics from the
 <a href="http://mbg.duth.gr/index.php/en/">Democritus University of 
 Thrace</a>. I then proceeded to do a MRes in Biodiversity Informatics and 
 Genomics at Imperial College London, which I completed with Distinction. 
-Following this, I pursued a PhD degree at Imperial College London (from 2015 to 2019), in 
-which I examined likely constraints on the ability of 
-ectotherms to adapt to various thermal environments.
+Following this, I pursued a PhD degree at Imperial College London (primarily 
+supervised by <a href="http://pawarlab.org">Samraat Pawar</a>), in 
+which I examined likely constraints on thermal adaptation, mainly across microbial 
+species.
+<br><br>
+I am currently doing a postdoc at the 
+<a href="https://tbg.senckenberg.de/personen/hiller/">Hiller group of LOEWE-TBG</a>, 
+working on comparative genomics of mammals and birds adapted to different 
+thermal environments.
 <br><br>
 For more information, click on the tabs at the top of this page.
 </font>
