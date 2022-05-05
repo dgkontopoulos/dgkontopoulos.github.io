@@ -23,7 +23,7 @@ supervised by <a href="http://pawarlab.org">Samraat Pawar</a>), in
 which I examined likely constraints on thermal adaptation, 
 mainly across microbial species.
 <br><br>
-I am currently an EMBO postdoctoral fellow at the 
+I am currently an <b>EMBO postdoctoral fellow</b> at the 
 <a href="https://tbg.senckenberg.de/personen/hiller/">Hiller group of LOEWE-TBG</a>, 
 investigating the genomic, physiological, and ecological drivers of 
 dormancy across birds and mammals.
