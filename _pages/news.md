@@ -11,7 +11,7 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
-<b>2021-03-01</b> - I was awarded an EMBO Postdoctoral Fellowship to investigate the drivers of dormancy across birds 
+<b>2022-03-01</b> - I was awarded an EMBO Postdoctoral Fellowship to investigate the drivers of dormancy across birds 
 and mammals!
 
 <br><br>
