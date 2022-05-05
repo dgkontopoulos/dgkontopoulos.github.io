@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <center>
-	<a title="Word cloud of abstracts from all papers listed below."><img src="../images/publications/wordcloud.png"></a>
+	<a title="Word cloud of abstracts from all papers listed below."><img src="../images/publications/wordcloud.png" width="60%" height="60%"></a>
 	&nbsp;&nbsp;&nbsp;
-	<a title="Network of semantically related terms from paper abstracts."><img src="../images/publications/word_network.png"></a>
+	<a title="Network of semantically related terms from paper abstracts."><img src="../images/publications/word_network.png" width="60%" height="60%"></a>
 </center><br>
 
 {% if author.googlescholar %}
