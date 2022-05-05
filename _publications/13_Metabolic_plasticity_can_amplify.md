@@ -9,6 +9,7 @@ permalink: /publication/13_Metabolic_plasticity_can_amplify
 excerpt: '
   [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/13_Metabolic_plasticity_can_amplify)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/13_Metabolic_plasticity_can_amplify.bib)
 '
 ---
@@ -40,6 +41,6 @@ predictive models of global warming impacts on ecosystems.
 
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/13_Metabolic_plasticity_can_amplify)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
+[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/13_Metabolic_plasticity_can_amplify.bib)

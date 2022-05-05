@@ -41,6 +41,5 @@ composition during repeated community assembly dynamics.
 
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/12_Latent_functional_diversity)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2021.04.14.439774)
+[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2021.04.14.439774)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Latent_functional_diversity.bib)
