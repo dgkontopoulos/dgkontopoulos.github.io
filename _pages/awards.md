@@ -28,12 +28,12 @@ Society for Evolutionary Biology in Groningen, the Netherlands.
 <br>
 <h2><b>Miscellaneous</b></h2>
 <b>2\.</b> The paper 
-"<a href='../publications/09_Phytoplankton_thermal_responses_adapt'>Phytoplankton 
+"<a href='../publication/09_Phytoplankton_thermal_responses_adapt'>Phytoplankton 
 thermal responses adapt in the absence of hard thermodynamic constraints</a>"
 was reported to be among the top-cited ones in <i>Evolution</i> for 2020-2021.
 
 <b>1\.</b> The paper 
-"<a href='../publications/5_Towards_a_theoretically_informed'>Towards a 
+"<a href='../publication/05_Towards_a_theoretically_informed'>Towards a 
 theoretically informed policy against a rakghoul plague outbreak</a>" 
 won the third place in the 2017 Christmas Competition of the 
 Medical Journal of Australia. 
