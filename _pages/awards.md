@@ -9,7 +9,7 @@ redirect_from:
 <br>
 <h2><b>Scholarships / Fellowships</b></h2>
 
-<b>3\.</b> EMBO Postdoctoral Fellowship (2022-2024).
+<b>3\. EMBO</b> Postdoctoral Fellowship (2022-2024).
 
 <b>2\.</b> Science and Solutions for a Changing Planet Doctoral Training
 Partnership from the <b>Natural Environment Research Council</b> (2015-2019).
