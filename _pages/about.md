@@ -14,7 +14,7 @@ Hello there! My name is Dimitrios - Georgios Kontopoulos and I am
 an <b>evolutionary thermal biologist</b>.
 
 <br><br>
-I started with a BSc in Molecular Biology and Genetics from the 
+I started my studies with a BSc in Molecular Biology and Genetics from the 
 <a href="http://mbg.duth.gr/index.php/en/">Democritus University of 
 Thrace</a>, followed by an MRes in Biodiversity Informatics and 
 Genomics from Imperial College London. I then 
