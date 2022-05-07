@@ -3,7 +3,7 @@ title: "<b>10\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>â
 Smith, T.P., Barraclough, T.G., and 
 Pawar, S. (2020). **Adaptive evolution shapes the present-day distribution 
 of the thermal sensitivity of population growth rate.** 
-PLOS Biology 18(10): e3000894. <img src='../images/open_access.png'>"
+PLOS Biology 18(10):e3000894. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/10_Adaptive_evolution_shapes
 excerpt: '

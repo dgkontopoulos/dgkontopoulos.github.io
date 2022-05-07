@@ -3,7 +3,7 @@ title: "<b>13\\.</b> Kordas, R.L., Pawar, S., <u>Kontopoulos, D.-G.</u>,
 Woodward, G., and O'Gorman, E.J.<sup><a title='Corresponding author'>✉</a></sup> 
 (2022). **Metabolic plasticity can amplify ecosystem responses to global 
 warming.** 
-bioRxiv. <img src='../images/open_access.png'>"
+Nature Communications 13:2161. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/13_Metabolic_plasticity_can_amplify
 excerpt: '

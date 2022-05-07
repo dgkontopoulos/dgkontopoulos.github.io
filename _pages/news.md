@@ -6,8 +6,6 @@ redirect_from:
   - /news
 ---
 
-<br>
-
 <div style='text-align:justify'>
 <p style='display:inline'>
 
