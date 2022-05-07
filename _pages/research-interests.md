@@ -9,124 +9,60 @@ redirect_from:
 <p align = "right">
 <font size = "2">
 &#10077;<b><i>Nothing in biology makes sense except in the light of evolution.</i></b>&#10078;
-<br>Theodosius Dobzhansky, <i>American Biology Teacher</i>, 1973<br><br>
+<br>Theodosius Dobzhansky, <i>American Biology Teacher</i>, 1973<br>
 </font></p>
 
-<font size = "3">
-My research interests can be mainly (but not exclusively!) grouped into the three following categories:
-</font>
+<p align = "justify"><font size = "3">
+The various levels of biological organization (e.g., enzymes, organismal 
+physiology, ecological communities) are influenced by and 
+respond to environmental changes in different ways. My main research goal 
+is to understand <b>how such responses vary across species and 
+environments</b>, as well as <b>how responses at a given level (e.g., physiology) 
+may affect responses at higher levels (e.g., an ecosystem)</b>.<br><br>
+Some representative themes of my research are the following:</font></p> 
 
-<h2><b>Evolutionary thermal biology</b></h2>
-<div style = "display:flex; align-items:center;">
-<div style="text-align: justify;">
+<p style="line-height:2px">&nbsp;</p>
 
-<font size = "3">
-Temperature is a major driver of the performance of physiological 
-and ecological traits (e.g., growth rate, escape body velocity) of all 
-organisms, but especially of ectotherms. It is becoming increasingly clear 
-that the shape of the thermal response curve (shown on the right) varies considerably 
-across different traits, species, or thermal environments. I am interested 
-in identifying processes that generate variation in the shape of the  
-response, and factors that constrain it. Understanding 
-these should improve our ability to predict the impacts of climate change 
-on biological systems.
-</font><br><br>
 
-<font size="2.5">
-<b>Relevant skills:</b><br>
-Fitting thermal response curves, phylogeny reconstruction and 
-chronogram estimation, phylogenetic comparative methods, 
-machine learning, some experience in fitting multivariate mixed-effects models, 
-some experience in handling datasets of environmental variables, 
-basic experience in mathematical modelling.
+<h2><center><b>How do physiological rates respond to rises in temperature?</b></center></h2>
+<p></p>
+<center><img src="../images/publications/thermodynamic_constraints_TPC.png" width = "80%" height = "80%"></center>
+
+<p></p>
+<p align = "justify"><font size = "3">
+In ectotherms, the performance of physiological rates 
+(e.g., respiration, photosynthesis) is typically a unimodal function of 
+temperature. The shape of this relationship exhibits remarkable variation 
+across traits, individuals, and species. To increase our understanding 
+of the processes that introduce variation into the shape of physiological 
+responses to temperature, I perform meta-analyses of large empirical 
+datasets, accounting for phylogeny and key environmental factors.
 
 <br><br>
-<b>Relevant publications:</b><br>
-* <a href='../publication/10_Adaptive_evolution_shapes' 
-style="color:#FF6F6F">Adaptive evolution shapes the present-day distribution of the thermal sensitivity of population growth rate.</a><br>
-* <a href='../publication/09_Phytoplankton_thermal_responses_adapt' 
-style="color:#FF6F6F">Phytoplankton thermal responses adapt in the absence of hard thermodynamic constraints.</a><br>
-* <a href='../publication/06_Use_and_misuse_of_temperature' 
-style="color:#FF6F6F">Use and misuse of temperature normalisation in 
-meta-analyses of thermal responses of biological traits.</a>
+Selected key publications:<ul>
+<li>Kontopoulos, D.-G., Smith, T.P., Barraclough, T.G., and Pawar, S. (2020). 
+<a href='../publication/10_Adaptive_evolution_shapes'>Adaptive evolution
+shapes the present-day distribution of the thermal sensitivity of
+population growth rate.</a> PLOS Biology 18(10):e3000894.</li>
+<li>Kontopoulos, D.-G., van Sebille, E., Lange, M., Yvon-Durocher, G., 
+Barraclough, T.G., and Pawar, S. (2020).
+<a href='../publication/09_Phytoplankton_thermal_responses_adapt'>Phytoplankton
+thermal responses adapt in the absence of hard thermodynamic constraints.</a>
+Evolution 74(4):775-790.</li>
+</ul>
 </font>
-</div>
-<img src="../images/evo_thermal_bio.png" style = "min-width:13vw;max-width:30vw">
-</div>
+</p>
 
-<br>
-<h2 style="text-align:right"><b>Evolution of genes and genomes</b></h2>
-<div style = "display:flex; align-items:center;">
-<img src="../images/evolution_of_genes.png" style = "min-width:13vw;max-width:30vw">
-<div style="text-align: justify;">
+<p style="line-height:2px">&nbsp;</p>
+<p style="line-height:2px">&nbsp;</p>
 
+<h2><center><b>What are the genomic underpinnings of adaptation to diverse environments?</b></center></h2>
+<p align = "justify"><img src="../images/comparative_genomics.png" style="float:left;height:220px;padding:30px">
 <font size = "3">
-
-How do different genes and gene products (co-)evolve during adaptation, 
-especially to extreme environments? What can we deduce from the size of 
-a gene family across multiple species? Which gene expression alterations 
-allow an organism to respond to changes in its local environment? 
-These are some of the questions that I am interested in answering using 
-comparative genomic and molecular approaches.
-
-</font><br><br>
-
-<font size="2.5">
-<b>Relevant skills:</b><br>
-Gene tree inference, analysis of sequence conservation, 
-Gene Ontology term enrichment, homology modelling, 
-protein structure comparisons, some experience in performing and analysing molecular 
-dynamics simulations, basic experience in identifying coevolving 
-protein families, basic experience in gene set enrichment analysis.
-
-<br><br>
-<b>Relevant publications:</b><br>
-* <a href='../publication/11_Higher_temperatures_worsen' 
-style="color:#FF6F6F">Higher temperatures worsen the effects of mutations 
-on protein stability.</a><br>
-* <a href='../publication/01_Pinda_A_Web_service_for_detection' 
-style="color:#FF6F6F">Pinda: A 
-Web service for detection and analysis of intraspecies gene duplication events.</a><br>
-* <a href='../publication/07_Recruitment_of_ubiquitin'
-style="color:#FF6F6F">Recruitment of ubiquitin-activating enzyme UBA1 
-to DNA by poly(ADP-ribose) promotes ATR signalling.</a>
+<p style="line-height:2px">&nbsp;</p>Species have evolved a range of strategies to persist in their local 
+environments. To shed light on the genomic changes that underlie such 
+adaptations (e.g., positive selection, gene losses/duplications), I am 
+combining approaches from phylogenetic comparative methods, 
+eco-informatics, and comparative genomics.
 </font>
-</div></div>
-
-<br><br>
-<h2><b>Software development for computational biology</b></h2>
-<div style = "display:flex; align-items:center;">
-<div style="text-align: justify;">
-<font size = "3">
-The breadth of available datasets (molecular, ecological, 
-environmental, or others) continuously expands the range of
-questions that we can address to understand the structure and 
-functioning of biological systems. To facilitate answering such 
-questions, I am particularly interested in 
-developing new software tools, or combining pre-existing ones into pipelines. 
-
-</font><br><br>
-<font size="2.5">
-<b>Relevant skills:</b><br>
-* Programming experience in <b>Perl 5</b> (extensive), <b>R</b> 
-(extensive), <b>Python 2/3</b> (good), <b>Common Lisp</b> (basic), 
-<b>C</b> (basic), and <b>Shell</b> (basic).<br>
-* Good experience with <b>SQL</b> databases (SQLite, MySQL).<br>
-* Can work on any major Operating System, including <b>GNU/Linux 
-distributions</b> (e.g., Debian, Gentoo) and <b>Mac OS X</b>.
-
-<br><br>
-<b>Relevant publications:</b><br>
-* <a href='../publication/04_Structuprint' 
-style="color:#FF6F6F">Structuprint: a scalable and extensible tool for 
-two-dimensional representation of protein surfaces.</a>
-<br>* <a href='../publication/02_Space_constrained_homology' 
-style="color:#FF6F6F">Space Constrained Homology Modelling: The 
-Paradigm of the RNA-Dependent RNA Polymerase of Dengue (Type II) Virus.</a>
-<br>* <a href='../publication/01_Pinda_A_Web_service_for_detection' 
-style="color:#FF6F6F">Pinda: A 
-Web service for detection and analysis of intraspecies gene duplication events.</a>
-</font>
-</div>
-<img src="../images/software_development.png" style = "min-width:13vw;max-width:30vw">
-</div>
+</p>

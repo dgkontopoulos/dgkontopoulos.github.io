@@ -11,7 +11,8 @@ redirect_from:
 
 <font size = "3.5">
 Hello there! My name is Dimitrios - Georgios Kontopoulos and I am 
-an <b>evolutionary thermal biologist</b>.
+an <b>evolutionary biologist</b>, mainly focusing on how temperature 
+changes influence biological systems.
 
 <br><br>
 I started my studies with a BSc in Molecular Biology and Genetics from the 
