@@ -6,7 +6,6 @@ redirect_from:
   - /awards
 ---
 
-<br>
 <h2><b>Scholarships / Fellowships</b></h2>
 
 <b>3\. EMBO</b> Postdoctoral Fellowship (2022-2024).

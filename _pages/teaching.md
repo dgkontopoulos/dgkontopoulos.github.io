@@ -6,7 +6,6 @@ redirect_from:
   - /teaching
 ---
 
-<br>
 <h2><b>Course Demonstration</b></h2>
 
 <b>5\. Further Topics in Statistics</b>, MSc "Ecology, Evolution and 
