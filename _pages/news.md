@@ -14,7 +14,7 @@ and mammals!
 
 <br><br>
 
-<b>2021-05-01</b> - I started a postdoc with <a href='https://tbg.senckenberg.de/personen/hiller/'>Michael Hiller</a> 
+<b>2021-05-01</b> - I started a postdoc with <a href='https://tbg.senckenberg.de/hillerlab/'>Michael Hiller</a> 
 and will soon be based at Frankfurt, Germany!
 
 <br><br>
