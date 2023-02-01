@@ -7,11 +7,12 @@ in a European patient: a case report and review of the literature.** Journal
 of Medical Case Reports 9:75. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/03_Adult_Kawasaki_disease
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/03_Adult_Kawasaki_disease)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/03_Adult_Kawasaki_disease)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)
 '
 ---
 
@@ -42,7 +43,7 @@ tomography performed 1 month later.<br><br>
 This report of an adult case of European Kawasaki disease may be of benefit to physicians of various specialties, including primary care doctors, hospital internists, intensivists and cardiologists. It demonstrates that a case of prolonged fever, unresponsive to antibiotics, in the absence of other diagnoses may be an incident of Kawasaki disease. It is worth stressing that such a diagnosis should be considered, even if the patient is adult and not of Asian lineage.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)
 

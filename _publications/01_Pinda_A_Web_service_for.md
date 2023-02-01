@@ -5,12 +5,13 @@ and analysis of intraspecies gene duplication events.** Computer Methods
 and Programs in Biomedicine 111(3):711-714."
 collection: publications
 permalink: /publication/01_Pinda_A_Web_service_for_detection
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/01_Pinda_A_Web_service_for_detection)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](http://orion.mbg.duth.gr/Pinda/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/01_Pinda_A_Web_service_for_detection)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](http://orion.mbg.duth.gr/Pinda/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
 '
 ---
 
@@ -39,7 +40,7 @@ The source code is freely available via
 <a href='https://github.com/dgkontopoulos/Pinda/'>https://github.com/dgkontopoulos/Pinda/</a>.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](http://orion.mbg.duth.gr/Pinda/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](http://orion.mbg.duth.gr/Pinda/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)

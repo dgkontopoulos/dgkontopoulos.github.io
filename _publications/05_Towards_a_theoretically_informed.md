@@ -7,10 +7,11 @@ plague outbreak.**
 The Medical Journal of Australia 207(11):490-494. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/05_Towards_a_theoretically_informed
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/05_Towards_a_theoretically_informed)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/05_Towards_a_theoretically_informed)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
 '
 ---
 
@@ -38,5 +39,5 @@ guidelines for successfully controlling and eliminating outbreaks of
 the rakghoul plague in Australian states.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)

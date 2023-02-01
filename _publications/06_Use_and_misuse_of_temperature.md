@@ -7,11 +7,12 @@ of thermal responses of biological traits.**
 PeerJ 6:e4363. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/06_Use_and_misuse_of_temperature
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/06_Use_and_misuse_of_temperature)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://peerj.com/articles/4363/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/06_Use_and_misuse_of_temperature)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://peerj.com/articles/4363/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
 '
 ---
 
@@ -42,6 +43,6 @@ meta-analyses of thermal performance across species in climate change
 impact studies.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://peerj.com/articles/4363/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://peerj.com/articles/4363/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)

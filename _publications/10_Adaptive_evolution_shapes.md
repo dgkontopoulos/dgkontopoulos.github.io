@@ -6,12 +6,13 @@ of the thermal sensitivity of population growth rate.**
 PLOS Biology 18(10):e3000894. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/10_Adaptive_evolution_shapes
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/10_Adaptive_evolution_shapes)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/712885)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/10_Adaptive_evolution_shapes)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/712885)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)
 '
 ---
 
@@ -54,7 +55,7 @@ sensitivity for ecosystem functioning.
 
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/712885)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/712885)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)

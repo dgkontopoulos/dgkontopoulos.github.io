@@ -7,12 +7,13 @@ extensible tool for two-dimensional representation of protein surfaces.** BMC
 Structural Biology 16:4. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/04_Structuprint
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/04_Structuprint)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-016-0055-7)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://dgkontopoulos.github.io/Structuprint/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Structuprint)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/4_Structuprint.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/04_Structuprint)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-016-0055-7)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](https://dgkontopoulos.github.io/Structuprint/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Structuprint)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/4_Structuprint.bib)
 '
 ---
 
@@ -50,8 +51,8 @@ it will be of use - primarily but not exclusively - to structural
 biologists and computational biochemists.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-016-0055-7)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://dgkontopoulos.github.io/Structuprint/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Structuprint)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/4_Structuprint.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-016-0055-7)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](https://dgkontopoulos.github.io/Structuprint/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Structuprint)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/4_Structuprint.bib)
 

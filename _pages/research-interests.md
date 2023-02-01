@@ -24,7 +24,7 @@ Some representative themes of my research are the following:</font></p>
 <p style="line-height:2px">&nbsp;</p>
 
 
-<h2><center><b>How do physiological rates respond to rises in temperature?</b></center></h2>
+<h2><center><b><font color = 'orange'>How do physiological rates respond to rises in temperature?</font></b></center></h2>
 <p></p>
 <center><img src="../images/publications/thermodynamic_constraints_TPC.png" width = "80%" height = "80%"></center>
 
@@ -56,7 +56,7 @@ Evolution 74(4):775-790.</li>
 <p style="line-height:2px">&nbsp;</p>
 <p style="line-height:2px">&nbsp;</p>
 
-<h2><center><b>What are the genomic underpinnings of adaptation to diverse environments?</b></center></h2>
+<h2><center><b><font color = 'orange'>What are the genomic underpinnings of adaptation to diverse environments?</font></b></center></h2>
 <p align = "justify"><img src="../images/comparative_genomics.png" style="float:left;height:220px;padding:30px">
 <font size = "3">
 <p style="line-height:2px">&nbsp;</p>Species have evolved a range of strategies to persist in their local 

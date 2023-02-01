@@ -8,10 +8,11 @@ poly(ADP-ribose) promotes ATR signalling.**
 Life Science Alliance 1(3):e201800096. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/07_Recruitment_of_ubiquitin
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/07_Recruitment_of_ubiquitin)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.life-science-alliance.org/content/1/3/e201800096)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/7_Recruitment_of_ubiquitin.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/07_Recruitment_of_ubiquitin)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](http://www.life-science-alliance.org/content/1/3/e201800096)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/7_Recruitment_of_ubiquitin.bib)
 '
 ---
 
@@ -38,5 +39,5 @@ ensuring the formation of functional ataxia-telangiectasia mutated and
 RAD3-related-signalling complexes.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.life-science-alliance.org/content/1/3/e201800096)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/7_Recruitment_of_ubiquitin.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](http://www.life-science-alliance.org/content/1/3/e201800096)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/7_Recruitment_of_ubiquitin.bib)

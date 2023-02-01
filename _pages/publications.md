@@ -1,15 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "<h1>Publications</h1>"
 permalink: /publications/
 author_profile: true
 ---
-
-<center>
-	<a title="Word cloud of abstracts from all papers listed below."><img src="../images/publications/wordcloud.png" width="33.5%" height="33.5%"></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a title="Network of semantically related terms from paper abstracts."><img src="../images/publications/word_network.png" width="33.5%" height="33.5%"></a>
-</center>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,6 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
+<h2><b><font color = 'orange'>Preprints (currently under review or in press)</font></b></h2><hr>
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubtype == 'preprint' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
+<br>
+
+<h2><b><font color = 'orange'>Peer-reviewed</font></b></h2><hr>
+
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'peer-reviewed' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

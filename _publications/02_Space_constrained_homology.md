@@ -6,12 +6,13 @@ RNA-Dependent RNA Polymerase of Dengue (Type II) Virus.** Computational
 and Mathematical Methods in Medicine 2013:108910. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/02_Space_constrained_homology
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/02_Space_constrained_homology)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.hindawi.com/journals/cmmm/2013/108910/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://dgkontopoulos.github.io/space_molding/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/space_molding)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Space_constrained.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/02_Space_constrained_homology)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.hindawi.com/journals/cmmm/2013/108910/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](https://dgkontopoulos.github.io/space_molding/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/space_molding)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Space_constrained.bib)
 '
 ---
 
@@ -40,8 +41,8 @@ can be of a more general use to homology modelling of enzymes sharing
 low sequence similarity with the template structures.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.hindawi.com/journals/cmmm/2013/108910/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://dgkontopoulos.github.io/space_molding/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/space_molding)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Space_constrained.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.hindawi.com/journals/cmmm/2013/108910/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](https://dgkontopoulos.github.io/space_molding/)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/space_molding)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Space_constrained.bib)
 

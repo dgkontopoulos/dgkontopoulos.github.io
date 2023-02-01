@@ -1,16 +1,17 @@
 ---
-title: "<b>13\\.</b> Kordas, R.L., Pawar, S., <u>Kontopoulos, D.-G.</u>, 
+title: "<b>11\\.</b> Kordas, R.L., Pawar, S., <u>Kontopoulos, D.-G.</u>, 
 Woodward, G., and O'Gorman, E.J.<sup><a title='Corresponding author'>✉</a></sup> 
 (2022). **Metabolic plasticity can amplify ecosystem responses to global 
 warming.** 
 Nature Communications 13:2161. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/13_Metabolic_plasticity_can_amplify
+permalink: /publication/11_Metabolic_plasticity_can_amplify
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/13_Metabolic_plasticity_can_amplify)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/13_Metabolic_plasticity_can_amplify.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/11_Metabolic_plasticity_can_amplify)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/11_Metabolic_plasticity_can_amplify.bib)
 '
 ---
 
@@ -41,6 +42,6 @@ predictive models of global warming impacts on ecosystems.
 
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/13_Metabolic_plasticity_can_amplify.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/11_Metabolic_plasticity_can_amplify.bib)

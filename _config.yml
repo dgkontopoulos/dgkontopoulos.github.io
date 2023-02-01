@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dimitrios - Georgios Kontopoulos"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Dimitrios - Georgios Kontopoulos"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Dimitrios - Georgios Kontopoulos"
   avatar           : "avatar.jpg"
-  bio              : "EMBO Postdoctoral Fellow.<br><br>Interested in the <b>responses of diverse biological systems to environmental changes over short or long timescales</b>."
+  bio              : "EMBO Postdoctoral Fellow<br><br>I strive to understand <b>how diverse biological systems respond to environmental changes over short or long timescales</b>."
   location         : "LOEWE Centre for Translational<br>Biodiversity Genomics &<br>Senckenberg Research Institute,<br>Frankfurt, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HhRasxEAAAAJ&hl"
@@ -104,7 +104,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DGKontopoulos"
+  twitter          : 
+  mastodon         : "https://ecoevo.social/@DGKontopoulos"
   vine             :
   weibo            :
   xing             :

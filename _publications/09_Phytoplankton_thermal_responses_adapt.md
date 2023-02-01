@@ -3,14 +3,15 @@ title: "<b>9\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>âœ
 van Sebille, E., Lange, M., Yvon-Durocher, G., Barraclough, T.G., and 
 Pawar, S. (2020). **Phytoplankton thermal responses adapt in the absence of hard 
 thermodynamic constraints.** 
-Evolution 74(4):775-790. <img src='../images/open_access.png'>"
+Evolution 74(4):775-790. <img src='../images/open_access.png'> [<font color = 'green'>Top Cited Article 2020-2021 in Evolution</font>]"
 collection: publications
 permalink: /publication/09_Phytoplankton_thermal_responses_adapt
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/09_Phytoplankton_thermal_responses_adapt)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1111/evo.13946)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5061/dryad.63xsj3tzv)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/9_Phytoplankton_thermal_responses_adapt.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/09_Phytoplankton_thermal_responses_adapt)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1111/evo.13946)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://doi.org/10.5061/dryad.63xsj3tzv)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/9_Phytoplankton_thermal_responses_adapt.bib)
 '
 ---
 
@@ -41,6 +42,6 @@ that phytoplankton thermal performance curves adapt to thermal
 environments largely in the absence of hard thermodynamic constraints.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1111/evo.13946)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5061/dryad.63xsj3tzv)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/9_Phytoplankton_thermal_responses_adapt.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1111/evo.13946)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://doi.org/10.5061/dryad.63xsj3tzv)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/9_Phytoplankton_thermal_responses_adapt.bib)

@@ -6,13 +6,14 @@ Bestion, E., Schaum, C.-E., Yvon-Durocher, G., and
 Pawar, S.<sup><a title='Corresponding author'>✉</a></sup>
 (2018). **Role of carbon allocation efficiency in the temperature 
 dependence of autotroph growth rates.** 
-PNAS 115(31):E7361-E7368."
+PNAS 115(31):E7361-E7368. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/08_Role_of_carbon
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/08_Role_of_carbon)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1073/pnas.1800222115)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/8_Role_of_carbon.bib)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/08_Role_of_carbon)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1073/pnas.1800222115)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/8_Role_of_carbon.bib)
 '
 ---
 
@@ -40,5 +41,5 @@ foundation for understanding how the temperature dependence of carbon
 allocation determines how population growth rates respond to temperature.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1073/pnas.1800222115)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/8_Role_of_carbon.bib)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1073/pnas.1800222115)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/8_Role_of_carbon.bib)
