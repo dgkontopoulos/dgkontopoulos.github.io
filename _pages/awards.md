@@ -29,7 +29,7 @@ Society for Evolutionary Biology in Groningen, the Netherlands.
 <b>2\.</b> The paper 
 "<a href='../publication/09_Phytoplankton_thermal_responses_adapt'>Phytoplankton 
 thermal responses adapt in the absence of hard thermodynamic constraints</a>"
-was reported to be among the top-cited ones in <i>Evolution</i> for 2020-2021.
+was reported to be among the top-cited ones in Evolution (the journal) for 2020-2021.
 
 <b>1\.</b> The paper 
 "<a href='../publication/05_Towards_a_theoretically_informed'>Towards a 
