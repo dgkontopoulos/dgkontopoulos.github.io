@@ -16,11 +16,11 @@ changes influence biological systems.
 
 <br><br>
 I started my studies with a BSc in Molecular Biology and Genetics from the 
-<a href="http://mbg.duth.gr/index.php/en/">Democritus University of 
+<a href="https://mbg.duth.gr/index.php/en/">Democritus University of 
 Thrace</a>, followed by an MRes in Biodiversity Informatics and 
 Genomics from Imperial College London. I then 
 pursued a PhD degree at Imperial College London (primarily 
-supervised by <a href="http://pawarlab.org">Samraat Pawar</a>), in 
+supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in 
 which I examined likely constraints on thermal adaptation, 
 mainly across microbial species.
 <br><br>
@@ -42,7 +42,7 @@ For more information, click on the tabs at the top of this page.
 <div class="mySlides fade">
   <img src="images/Volos.jpg" style="width:80%">
   <div class="text"><font size = "3.5" style = "text-shadow:1px 1px #000000"><b>A gorgeous panoramic photo of 
-Volos, Greece, my hometown.</b></font><br><br><font size = "2.5" style = "text-shadow:1px 1px #000000">By Tsints (http://bit.ly/2iOtksL), CC BY-SA 3.0.</font></div>
+Volos, Greece, my hometown.</b></font><br><br><font size = "2.5" style = "text-shadow:1px 1px #000000">By Tsints (https://bit.ly/2iOtksL), CC BY-SA 3.0.</font></div>
 </div>
 
 <div class="mySlides fade">

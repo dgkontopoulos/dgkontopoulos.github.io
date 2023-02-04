@@ -8,7 +8,7 @@ permalink: /publication/01_Pinda_A_Web_service_for_detection
 pubtype: 'peer-reviewed'
 excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/01_Pinda_A_Web_service_for_detection)
-\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.sciencedirect.com/science/article/pii/S0169260713001788)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](http://orion.mbg.duth.gr/Pinda/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
@@ -40,7 +40,7 @@ The source code is freely available via
 <a href='https://github.com/dgkontopoulos/Pinda/'>https://github.com/dgkontopoulos/Pinda/</a>.
 </p>
 
-[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.sciencedirect.com/science/article/pii/S0169260713001788)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](http://orion.mbg.duth.gr/Pinda/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
