@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Dimitrios - Georgios Kontopoulos"
 description              : &description "personal description"
 url                      : https://dgkontopoulos.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
