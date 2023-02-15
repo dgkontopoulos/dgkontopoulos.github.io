@@ -15,6 +15,7 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
 <br><center><img src="../images/publications/metabolic_plasticity_can_amplify.png"></center>
 
 ### Abstract:

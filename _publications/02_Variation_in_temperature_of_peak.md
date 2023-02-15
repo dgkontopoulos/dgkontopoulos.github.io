@@ -16,6 +16,7 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
 <br><center><img src="../images/publications/variation_in_temperature_of_peak.png"></center>
 
 ### Abstract:

@@ -13,6 +13,7 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
 <br><center><img src="../images/publications/TOGA.png"></center>
 
 ### Abstract:

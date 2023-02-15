@@ -16,6 +16,7 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
 <br><center><img src="../images/publications/adaptive_evolution_thermal_sensitivity.png"></center>
 
 ### Abstract:

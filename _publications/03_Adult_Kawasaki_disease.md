@@ -16,6 +16,7 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
 <br><center><img src="../images/publications/kawasaki_figure.jpg"></center>
 
 ### Abstract:

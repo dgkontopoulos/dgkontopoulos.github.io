@@ -17,6 +17,8 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
+
 ### Abstract:
 
 <p style='text-align: justify;'>

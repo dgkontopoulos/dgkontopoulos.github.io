@@ -15,6 +15,7 @@ excerpt: '
 '
 ---
 
+{{ page.title }}<br>
 <br><center><img src="../images/publications/latent_functional_diversity.jpg"></center>
 
 ### Abstract:
