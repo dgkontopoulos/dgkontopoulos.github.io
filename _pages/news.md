@@ -9,6 +9,10 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2023-04-28</b> - Our <a href='../publication/13_TOGA'>TOGA paper</a>, led by Bogdan Kirilenko, came out in Science!
+
+<br><br>
+
 <b>2022-03-01</b> - I was awarded an EMBO Postdoctoral Fellowship to investigate the drivers of dormancy across birds 
 and mammals!
 

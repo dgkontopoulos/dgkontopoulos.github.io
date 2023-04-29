@@ -10,6 +10,7 @@ pubtype: 'peer-reviewed'
 excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/10_Adaptive_evolution_shapes)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/712885)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">PLOS Showcase page</span>](https://www.growkudos.com/publications/10.1371%25252Fjournal.pbio.3000894/reader)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)
@@ -57,6 +58,7 @@ sensitivity for ecosystem functioning.
 </p>
 
 [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/712885)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">PLOS Showcase page</span>](https://www.growkudos.com/publications/10.1371%25252Fjournal.pbio.3000894/reader)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_thermal_sensitivity_2020)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.12816140.v1)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/10_Adaptive_evolution_shapes.bib)

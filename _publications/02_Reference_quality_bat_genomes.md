@@ -1,5 +1,5 @@
 ---
-title: "<b>3\\.</b> 
+title: "<b>2\\.</b> 
 Morales, A.E., Dong, Y., Brown, T., Baid, K., <u>Kontopoulos, D.-G.</u>, 
 Gonzalez, V., Huang, Z., Ahmed, A.-W., Hilgers, L., Winkler, S., 
 Hughes, G., Li, X., Kirilenko, B.M., Devanna, P., Lama, T.M., Nissan, Y., 
@@ -9,10 +9,10 @@ Lim, B.K., Myers, E., Teeling, E.C., Banerjee, A., Irving, A.T.<sup><a title='Co
 Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2023). **Reference-quality 
 bat genomes illuminate adaptations to viral tolerance and disease resistance.** Research Square."
 collection: publications
-permalink: /publication/03_Reference_quality_bat_genomes
+permalink: /publication/02_Reference_quality_bat_genomes
 pubtype: 'preprint'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/03_Reference_quality_bat_genomes)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/02_Reference_quality_bat_genomes)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.21203/rs.3.rs-2557682/v1)
 '
 ---
