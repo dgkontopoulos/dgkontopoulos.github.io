@@ -11,8 +11,8 @@ redirect_from:
 
 <font size = "3.5">
 Hello there! My name is Dimitrios - Georgios Kontopoulos and I am 
-an <b>evolutionary biologist</b>, mainly focusing on how temperature 
-changes influence biological systems.
+an <b>evolutionary biologist</b>, focusing on how biological 
+systems respond to environmental changes.
 
 <br><br>
 I started my studies with a BSc in Molecular Biology and Genetics from the 
@@ -21,8 +21,8 @@ Thrace</a>, followed by an MRes in Biodiversity Informatics and
 Genomics from Imperial College London. I then 
 pursued a PhD degree at Imperial College London (primarily 
 supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in 
-which I examined likely constraints on thermal adaptation, 
-mainly across microbial species.
+which I mainly examined how microbial growth rate responds to changes in 
+temperature across species and environments.
 <br><br>
 I am currently an <b>EMBO postdoctoral fellow</b> at the 
 <a href="https://tbg.senckenberg.de/hillerlab/">Hiller group of LOEWE-TBG</a>, 
