@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2><b><font color = 'orange'>Preprints (currently under review or in press)</font></b></h2><hr>
+<h2><b><font color = 'orange'>Preprints</font></b></h2><hr>
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}

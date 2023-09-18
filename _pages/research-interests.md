@@ -13,33 +13,38 @@ redirect_from:
 </font></p>
 
 <p align = "justify"><font size = "3">
-The various levels of biological organization (e.g., enzymes, organismal 
-physiology, ecological communities) are influenced by and 
-respond to environmental changes in different ways. My main research goal 
-is to understand <b>how such responses vary across species and 
-environments</b>, as well as <b>how responses at a given level (e.g., physiology) 
-may affect responses at higher levels (e.g., an ecosystem)</b>.<br><br>
-Some representative themes of my research are the following:</font></p> 
+Climate change is among the most important threats to global biodiversity. 
+To accurately forecast its impacts on the biosphere, it is important to 
+develop a thorough understanding of <b>current and historical responses of diverse biological systems to environmental changes</b>.<br><br>I pursue this by 
+working across taxonomic groups (from bacteria and phytoplankton 
+to birds and mammals), levels of organization (from molecules to ecosystems), 
+timescales (from seconds to hundreds of millions of years), and by leveraging 
+a wide array of methods (e.g., ecoinformatics, phylogenetic comparative methods, 
+comparative genomics, machine learning).<br><br>
+Two major themes of my research to date are the following:</font></p> 
 
 <p style="line-height:2px">&nbsp;</p>
 
 
-<h2><center><b><font color = 'orange'>How do physiological rates respond to rises in temperature?</font></b></center></h2>
+<h2><center><b><font color = 'orange'>How do traits of ectotherms respond to changes in temperature?</font></b></center></h2>
 <p></p>
 <center><img src="../images/publications/thermodynamic_constraints_TPC.png" width = "80%" height = "80%"></center>
 
 <p></p>
 <p align = "justify"><font size = "3">
-In ectotherms, the performance of physiological rates 
-(e.g., respiration, photosynthesis) is typically a unimodal function of 
+In ectotherms, the performance of physiological, ecological, and life-history traits 
+(e.g., respiration, consumption rate) is typically a unimodal function of 
 temperature. The shape of this relationship exhibits remarkable variation 
-across traits, individuals, and species. To increase our understanding 
-of the processes that introduce variation into the shape of physiological 
-responses to temperature, I perform meta-analyses of large empirical 
-datasets, accounting for phylogeny and key environmental factors.
+across traits, taxa, and environments. To better understand how such variation 
+emerges, I perform meta-analyses of large empirical datasets, accounting for 
+phylogeny and key environmental factors.
 
 <br><br>
 Selected key publications:<ul>
+<li>Kontopoulos, D.-G., Sentis, A., Daufresne, M., Dell, A.I., and Pawar, S. (2023). 
+<a href='../publication/03_No_model_to_rule_them_all'>No model to rule them all: a 
+systematic comparison of 83 thermal performance curve models across traits and taxonomic 
+groups.</a> bioRxiv 2023.09.08.556856.</li>
 <li>Kontopoulos, D.-G., Smith, T.P., Barraclough, T.G., and Pawar, S. (2020). 
 <a href='../publication/10_Adaptive_evolution_shapes'>Adaptive evolution
 shapes the present-day distribution of the thermal sensitivity of
@@ -56,13 +61,14 @@ Evolution 74(4):775-790.</li>
 <p style="line-height:2px">&nbsp;</p>
 <p style="line-height:2px">&nbsp;</p>
 
-<h2><center><b><font color = 'orange'>What are the genomic underpinnings of adaptation to diverse environments?</font></b></center></h2>
+<h2><center><b><font color = 'orange'>What are the physiological, ecological, and genomic<br>underpinnings of dormancy in endotherms?</font></b></center></h2>
 <p align = "justify"><img src="../images/comparative_genomics.png" style="float:left;height:220px;padding:30px">
 <font size = "3">
-<p style="line-height:2px">&nbsp;</p>Species have evolved a range of strategies to persist in their local 
-environments. To shed light on the genomic changes that underlie such 
-adaptations (e.g., positive selection, gene losses/duplications), I am 
-combining approaches from phylogenetic comparative methods, 
-eco-informatics, and comparative genomics.
+<p style="line-height:2px">&nbsp;</p>Many endotherms have the ability to 
+enter dormancy (torpor or hibernation) in response to challenging environmental 
+conditions (e.g., low food resources, extreme temperatures). To shed light on 
+the underlying factors at the level of physiology, ecology, and genomics, 
+I am combining approaches from phylogenetic comparative methods, 
+ecoinformatics, and comparative genomics.
 </font>
 </p>
