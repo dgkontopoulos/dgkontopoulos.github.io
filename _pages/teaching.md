@@ -39,5 +39,8 @@ MSc/MRes programmes, Imperial College London, 2014-15.
 
 <br>
 
-<h1>Students supervised</h1>
-<b>1\. Kate Griffin</b>, MSc student at Imperial College London, 2022
+<h1>Students (co-)supervised</h1>
+<b>2\. Aditi Madkaikar</b>, MRes student at Imperial College London, 2023.
+
+<b>1\. Kate Griffin</b>, MSc student at Imperial College London, 2022.
+
