@@ -1,5 +1,5 @@
 ---
-title: "<b>3\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Presenting author'>†</a></sup></u>, 
+title: "<b>2\\.</b> <u>Kontopoulos, D.-G.<sup><a title='Presenting author'>†</a></sup></u>, 
 Yvon-Durocher, G., Chen, B., and Pawar, S. **Γενικά μοτίβα θερμικής προσαρμογής 
 μεταξύ των ειδών του φυτοπλαγκτού [General patterns of thermal adaptation among 
 phytoplankton].**"
