@@ -1,13 +1,13 @@
 ---
-title: "<b>3\\.</b> 
+title: "<b>2\\.</b> 
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Sentis, A., Daufresne, M., Dell, A.I., and Pawar, S. (2023). **No model to rule them all: a 
 systematic comparison of 83 thermal performance curve models across traits and taxonomic groups.** bioRxiv 2023.09.08.556856."
 collection: publications
-permalink: /publication/03_No_model_to_rule_them_all
+permalink: /publication/02_No_model_to_rule_them_all
 pubtype: 'preprint'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/03_No_model_to_rule_them_all)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/02_No_model_to_rule_them_all)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/2023.09.08.556856)
 '
 ---

@@ -42,7 +42,7 @@ phylogeny and key environmental factors.
 <br><br>
 Selected key publications:<ul>
 <li>Kontopoulos, D.-G., Sentis, A., Daufresne, M., Dell, A.I., and Pawar, S. (2023). 
-<a href='../publication/03_No_model_to_rule_them_all'>No model to rule them all: a 
+<a href='../publication/02_No_model_to_rule_them_all'>No model to rule them all: a 
 systematic comparison of 83 thermal performance curve models across traits and taxonomic 
 groups.</a> bioRxiv 2023.09.08.556856.</li>
 <li>Kontopoulos, D.-G., Smith, T.P., Barraclough, T.G., and Pawar, S. (2020). 
@@ -65,10 +65,9 @@ Evolution 74(4):775-790.</li>
 <p align = "justify"><img src="../images/comparative_genomics.png" style="float:left;height:220px;padding:30px">
 <font size = "3">
 <p style="line-height:2px">&nbsp;</p>Many endotherms have the ability to 
-enter dormancy (torpor or hibernation) in response to challenging environmental 
+enter dormancy (daily torpor or hibernation) in response to challenging environmental 
 conditions (e.g., low food resources, extreme temperatures). To shed light on 
-the underlying factors at the level of physiology, ecology, and genomics, 
-I am combining approaches from phylogenetic comparative methods, 
+the underlying factors, I am combining approaches from phylogenetic comparative methods, 
 ecoinformatics, and comparative genomics.
 </font>
 </p>
