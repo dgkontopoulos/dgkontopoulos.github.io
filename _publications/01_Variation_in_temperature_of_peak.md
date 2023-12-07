@@ -4,7 +4,7 @@ Pawar, S.<sup><a title='Corresponding author'>✉</a></sup>,
 Huxley, P.J.<sup><a title='Corresponding author'>✉</a></sup>, 
 Smallwood, T.R.C., Nesbit, M.L., Chan, A.H.H., Shocket, M.S.,
 Johnson, L.R., <u>Kontopoulos, D.-G.</u>, and Cator, 
-L.<sup><a title='Corresponding author'>✉</a></sup> (2023). **Variation 
+L.<sup><a title='Corresponding author'>✉</a></sup>. **Variation 
 in temperature of peak trait performance will constrain adaptation of 
 arthropod populations to climatic warming.** Nature Ecology & Evolution."
 collection: publications
