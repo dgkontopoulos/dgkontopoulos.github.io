@@ -61,7 +61,7 @@ Evolution 74(4):775-790.</li>
 <p style="line-height:2px">&nbsp;</p>
 <p style="line-height:2px">&nbsp;</p>
 
-<h2><center><b><font color = 'orange'>What are the physiological, ecological, and genomic<br>underpinnings of dormancy in endotherms?</font></b></center></h2>
+<h2><center><b><font color = 'orange'>What are the physiological, ecological, and genomic underpinnings of dormancy in endotherms?</font></b></center></h2>
 <p align = "justify"><img src="../images/comparative_genomics.png" style="float:left;height:220px;padding:30px">
 <font size = "3">
 <p style="line-height:2px">&nbsp;</p>Many endotherms have the ability to 
@@ -69,5 +69,13 @@ enter dormancy (daily torpor or hibernation) in response to challenging environm
 conditions (e.g., low food resources, extreme temperatures). To shed light on 
 the underlying factors, I am combining approaches from phylogenetic comparative methods, 
 ecoinformatics, and comparative genomics.
+
+<br><br>
+Selected key publications:<ul>
+<li>Kontopoulos, D.-G., Levesque, D.L., and Hiller, M. (2023).
+<a href='../publication/03_Numerous_independent_gains'>Numerous 
+independent gains of torpor and hibernation across endotherms, linked with 
+adaptation to diverse environments.</a> bioRxiv 2023.12.12.571278.</li>
+</ul>
 </font>
 </p>

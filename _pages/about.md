@@ -40,12 +40,6 @@ For more information, click on the tabs at the top of this page.
 <center>
 
 <div class="mySlides fade">
-  <img src="images/Volos.jpg" style="width:80%">
-  <div class="text"><font size = "3.5" style = "text-shadow:1px 1px #000000"><b>A gorgeous panoramic photo of 
-Volos, Greece, my hometown.</b></font><br><br><font size = "2.5" style = "text-shadow:1px 1px #000000">By Tsints (https://bit.ly/2iOtksL), CC BY-SA 3.0.</font></div>
-</div>
-
-<div class="mySlides fade">
   <img src="images/publications/wordcloud.png" style="width:80%">
   <div class="text"><font size = '3.5' color = "#000000">Word cloud based on the abstracts of my papers.</font></div>
 </div>
@@ -54,6 +48,13 @@ Volos, Greece, my hometown.</b></font><br><br><font size = "2.5" style = "text-s
   <img src="images/publications/word_network.png" style="width:80%">
   <div class="text"><font size = '3.5' color = "#000000">Network of semantically related terms from the abstracts of my papers.</font></div>
 </div>
+
+<div class="mySlides fade">
+  <img src="images/Volos.jpg" style="width:80%">
+  <div class="text"><font size = "3.5" style = "text-shadow:1px 1px #000000"><b>A gorgeous panoramic photo of 
+Volos, Greece, my hometown.</b></font><br><br><font size = "2.5" style = "text-shadow:1px 1px #000000">By Tsints (https://bit.ly/2iOtksL), CC BY-SA 3.0.</font></div>
+</div>
+
 </center>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
