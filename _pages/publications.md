@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+<!---
 <h2><b><font color = 'orange'>In press</font></b></h2><hr>
 
 {% for post in site.publications reversed %}
@@ -20,6 +21,8 @@ author_profile: true
 {% endfor %}
 
 <br>
+-->
+
 
 <h2><b><font color = 'orange'>Preprints</font></b></h2><hr>
 
