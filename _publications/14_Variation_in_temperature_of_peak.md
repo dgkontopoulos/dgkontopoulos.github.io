@@ -6,7 +6,7 @@ Smallwood, T.R.C., Nesbit, M.L., Chan, A.H.H., Shocket, M.S.,
 Johnson, L.R., <u>Kontopoulos, D.-G.</u>, and Cator, 
 L.J.<sup><a title='Corresponding author'>✉</a></sup> (2024). **Variation 
 in temperature of peak trait performance constrains adaptation of 
-arthropod populations to climatic warming.** Nature Ecology & Evolution. 
+arthropod populations to climatic warming.** Nature Ecology & Evolution 8:500-510. 
 <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/14_Variation_in_temperature_of_peak
