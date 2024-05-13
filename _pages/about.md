@@ -24,7 +24,7 @@ supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in
 which I mainly examined how microbial growth rate responds to changes in 
 temperature across species and environments.
 <br><br>
-I am currently an <b>EMBO postdoctoral fellow</b> at the 
+I am currently finishing an <b>EMBO postdoctoral fellowship</b> at the 
 <a href="https://tbg.senckenberg.de/hillerlab/">Hiller group of LOEWE-TBG</a>, 
 investigating the genomic, physiological, and ecological drivers of 
 dormancy across birds and mammals.
