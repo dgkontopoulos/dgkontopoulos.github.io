@@ -1,13 +1,13 @@
 ---
 title: "<b>1\\.</b> 
-Morales, A.E., Dong, Y., Brown, T., Baid, K., <u>Kontopoulos, D.-G.</u>, 
-Gonzalez, V., Huang, Z., Ahmed, A.-W., Hilgers, L., Winkler, S., 
-Hughes, G., Li, X., Kirilenko, B.M., Devanna, P., Lama, T.M., Nissan, Y., 
+Morales, A.E.<sup><a title='Equal contribution'>†</a></sup>, Dong, Y.<sup><a title='Equal contribution'>†</a></sup>, Brown, T., Baid, K., <u>Kontopoulos, D.-G.</u>, 
+Gonzalez, V., Huang, Z., Ahmed, A.-W., Bhuinya, A., Hilgers, L., Winkler, S., 
+Hughes, G., Li, X., Lu, P., Yang, Y., Kirilenko, B.M., Devanna, P., Lama, T.M., Nissan, Y., 
 Pippel, M., Dávalos, L.M., Vernes, S.C., Puechmaille, S.J., 
 Rossiter, S.J., Yossi, Y., Prescott, J.B., Kurth, A., Ray, D.A., 
 Lim, B.K., Myers, E., Teeling, E.C., Banerjee, A., Irving, A.T.<sup><a title='Corresponding author'>✉</a></sup>, and 
 Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2023). **Reference-quality 
-bat genomes illuminate adaptations to viral tolerance and disease resistance.** Research Square."
+bat genomes illuminate adaptations to viral tolerance and disease resistance.** Research Square. <img src='../images/under_review.png'>"
 collection: publications
 permalink: /publication/01_Reference_quality_bat_genomes
 pubtype: 'preprint'

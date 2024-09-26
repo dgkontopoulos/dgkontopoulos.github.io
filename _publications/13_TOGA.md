@@ -3,7 +3,7 @@ title: "<b>13\\.</b>
 Kirilenko, B.M., Munegowda, C., Osipova, E., Jebb, D., Sharma, V., Blumer, M.,
 Morales, A.E., Ahmed, A.-W., <u>Kontopoulos, D.-G.</u>, Hilgers, L., 
 Lindblad-Toh, K., Karlsson, E.K., Zoonomia Consortium, and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2023). **Integrating 
-gene annotation with orthology inference at scale.** Science 380(6643):eabn3107."
+gene annotation with orthology inference at scale.** Science 380(6643):eabn3107. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/13_TOGA
 pubtype: 'peer-reviewed'

@@ -3,7 +3,7 @@ title: "<b>3\\.</b>
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Levesque, D.L., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2023). **Numerous 
 independent gains of torpor and hibernation across endotherms, linked with 
-adaptation to diverse environments.** bioRxiv 2023.12.12.571278."
+adaptation to diverse environments.** bioRxiv 2023.12.12.571278. <img src='../images/under_review.png'>"
 collection: publications
 permalink: /publication/03_Numerous_independent_gains
 pubtype: 'preprint'
