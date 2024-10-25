@@ -1,12 +1,29 @@
 ---
 layout: archive
-title: "Conference presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
+<div style="width: 500; height: 488px; overflow: hidden; position: relative; margin: 0 auto;">
+	<iframe src="/talkmap/map.html" height="650" width="100%" style="transform: scale(0.75); transform-origin: 0 0; border: none;"></iframe>
+</div>
+
+<h2><b><font color = 'orange'>Invited talks</font></b></h2><hr>
+
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.talktype == 'invited' %}
+      {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<br>
+
+<h2><b><font color = 'orange'>Contributed talks & poster presentations</font></b></h2><hr>
+
+{% for post in site.talks reversed %}
+  {% if post.talktype == 'contributed' %}
+      {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+

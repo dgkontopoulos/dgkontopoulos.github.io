@@ -11,23 +11,26 @@ redirect_from:
 
 <font size = "3.5">
 Hello there! My name is Dimitrios - Georgios Kontopoulos and I am 
-an <b>evolutionary biologist</b>, focusing on how biological 
+an <b>integrative biologist</b>, focusing on how various biological 
 systems respond to environmental changes.
 
 <br><br>
-I started my studies with a BSc in Molecular Biology and Genetics from the 
-<a href="https://mbg.duth.gr/index.php/en/">Democritus University of 
-Thrace</a>, followed by an MRes in Biodiversity Informatics and 
-Genomics from Imperial College London. I then 
-pursued a PhD degree at Imperial College London (primarily 
-supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in 
-which I mainly examined how microbial growth rate responds to changes in 
-temperature across species and environments.
+My research spans <b>levels of biological organization</b> (from molecules to ecosystems), 
+<b>taxonomic groups</b> (from microbes to birds and mammals), 
+<b>timescales</b> (from seconds to millions of years), and 
+<b>methodological approaches</b> (e.g., ecoinformatics, phylogenetic comparative methods, 
+comparative genomics, machine learning).
+
 <br><br>
+
 I am currently a <b>postdoctoral fellow</b> at the 
 <a href="https://tbg.senckenberg.de/hillerlab/">Hiller group of LOEWE-TBG</a>, 
 investigating the genomic, physiological, and ecological drivers of 
-dormancy across birds and mammals.
+dormancy across birds and mammals. Prior to this, I did a PhD at 
+Imperial College London (primarily supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in 
+which I mainly examined how microbial growth rate responds to changes in 
+temperature across species and environments.
+
 <br><br>
 For more information, click on the tabs at the top of this page.
 </font>

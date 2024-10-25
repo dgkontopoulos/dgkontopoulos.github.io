@@ -9,6 +9,11 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2024-10-14</b> - My <a href='../publication/15_No_universal_mathematical_model'>systematic comparison of 83 thermal 
+performance curve models</a> was published in Nature Communications! &nbsp; &#127881; &#127881; &#127881;
+
+<br><br>
+
 <b>2023-04-28</b> - Our <a href='../publication/13_TOGA'>TOGA paper</a>, led by Bogdan Kirilenko, came out in Science!
 
 <br><br>

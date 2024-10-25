@@ -8,4 +8,5 @@ type: "Poster presentation"
 venue: Annual London Evolutionary Research Network Conference
 date: 2014-11-05
 location: "London, United Kingdom"
+talktype: 'contributed'
 ---

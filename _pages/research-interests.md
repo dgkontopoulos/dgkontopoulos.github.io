@@ -15,12 +15,20 @@ redirect_from:
 <p align = "justify"><font size = "3">
 Climate change is among the most important threats to global biodiversity. 
 To accurately forecast its impacts on the biosphere, it is important to 
-develop a thorough understanding of <b>current and historical responses of diverse biological systems to environmental changes</b>.<br><br>I pursue this by 
+develop a thorough understanding of <b>current and historical responses of diverse biological systems to environmental changes</b>.
+
+<br><br>
+
+<!--
+I pursue this by 
 working across taxonomic groups (from bacteria and phytoplankton 
 to birds and mammals), levels of organization (from molecules to ecosystems), 
 timescales (from seconds to hundreds of millions of years), and by leveraging 
 a wide array of methods (e.g., ecoinformatics, phylogenetic comparative methods, 
 comparative genomics, machine learning).<br><br>
+//-->
+
+
 Two major themes of my research to date are the following:</font></p> 
 
 <p style="line-height:2px">&nbsp;</p>
@@ -41,10 +49,10 @@ phylogeny and key environmental factors.
 
 <br><br>
 Selected key publications:<ul>
-<li>Kontopoulos, D.-G., Sentis, A., Daufresne, M., Dell, A.I., and Pawar, S. (2023). 
-<a href='../publication/02_No_model_to_rule_them_all'>No model to rule them all: a 
-systematic comparison of 83 thermal performance curve models across traits and taxonomic 
-groups.</a> bioRxiv 2023.09.08.556856.</li>
+<li>Kontopoulos, D.-G., Sentis, A., Daufresne, M., Glazman, N., Dell, A.I., and Pawar, S. (2024). 
+<a href='../publication/15_No_universal_mathematical_model'>No universal 
+mathematical model for thermal performance curves across traits and taxonomic groups.</a> 
+Nature Communications 15:8855.</li>
 <li>Kontopoulos, D.-G., Smith, T.P., Barraclough, T.G., and Pawar, S. (2020). 
 <a href='../publication/10_Adaptive_evolution_shapes'>Adaptive evolution
 shapes the present-day distribution of the thermal sensitivity of
@@ -61,11 +69,11 @@ Evolution 74(4):775-790.</li>
 <p style="line-height:2px">&nbsp;</p>
 <p style="line-height:2px">&nbsp;</p>
 
-<h2><center><b><font color = 'orange'>What are the physiological, ecological, and genomic underpinnings of dormancy in endotherms?</font></b></center></h2>
+<h2><center><b><font color = 'orange'>What are the physiological, ecological, and genomic underpinnings of torpor in endotherms?</font></b></center></h2>
 <p align = "justify"><img src="../images/comparative_genomics.png" style="float:left;height:220px;padding:30px">
 <font size = "3">
 <p style="line-height:2px">&nbsp;</p>Many endotherms have the ability to 
-enter dormancy (daily torpor or hibernation) in response to challenging environmental 
+enter torpor (daily torpor, prolonged torpor, or hibernation) in response to challenging environmental 
 conditions (e.g., low food resources, extreme temperatures). To shed light on 
 the underlying factors, I am combining approaches from phylogenetic comparative methods, 
 ecoinformatics, and comparative genomics.
@@ -73,7 +81,7 @@ ecoinformatics, and comparative genomics.
 <br><br>
 Selected key publications:<ul>
 <li>Kontopoulos, D.-G., Levesque, D.L., and Hiller, M. (2023).
-<a href='../publication/03_Numerous_independent_gains'>Numerous 
+<a href='../publication/02_Numerous_independent_gains'>Numerous 
 independent gains of torpor and hibernation across endotherms, linked with 
 adaptation to diverse environments.</a> bioRxiv 2023.12.12.571278.</li>
 </ul>

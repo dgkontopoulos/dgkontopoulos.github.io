@@ -4,8 +4,9 @@ Yvon-Durocher, G., Chen, B., and Pawar, S. **Γενικά μοτίβα θερμ�
 μεταξύ των ειδών του φυτοπλαγκτού [General patterns of thermal adaptation among 
 phytoplankton].**"
 collection: talks
-type: "Oral presentation"
+type: "oral presentation"
 venue: 7th National Congress of the Hellenic Ecological Society
 date: 2014-10-11
 location: "Mytilene, Greece"
+talktype: 'contributed'
 ---

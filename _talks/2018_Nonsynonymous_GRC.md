@@ -7,4 +7,5 @@ type: "Poster presentation"
 venue: Gordon Research Conference on Unifying Ecology Across Scales
 date: 2018-07-22
 location: "Biddeford, ME, United States of America"
+talktype: 'contributed'
 ---

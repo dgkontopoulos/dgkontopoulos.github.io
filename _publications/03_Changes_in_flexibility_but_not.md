@@ -1,14 +1,14 @@
 ---
-title: "<b>4\\.</b> 
+title: "<b>3\\.</b> 
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Patmanidis, I., Barraclough, T., and Pawar, S. (2024). **Changes 
 in flexibility but not in compactness underlie the thermal adaptation of 
 prokaryotic adenylate kinases.** bioRxiv 2024.09.04.611173. <img src='../images/submitted.png'>"
 collection: publications
-permalink: /publication/04_Changes_in_flexibility_but_not
+permalink: /publication/03_Changes_in_flexibility_but_not
 pubtype: 'preprint'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/04_Changes_in_flexibility_but_not)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/03_Changes_in_flexibility_but_not)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/2024.09.04.611173)
 '
 ---
