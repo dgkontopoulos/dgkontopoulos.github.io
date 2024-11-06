@@ -12,6 +12,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](http://orion.mbg.duth.gr/Pinda/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cmpb.2013.05.021" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

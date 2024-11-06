@@ -12,6 +12,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1038/s41467-022-29808-1)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://doi.org/10.5526/ERDR-00000148)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/11_Metabolic_plasticity_can_amplify.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-022-29808-1" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

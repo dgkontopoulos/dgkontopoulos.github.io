@@ -12,6 +12,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.7554/eLife.80867)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://github.com/smithtp/latent-diversity)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Latent_functional_diversity.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.80867" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

@@ -16,6 +16,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1038/s41559-023-02301-8)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data and code</span>](https://github.com/EcoEngLab/TraitMismatchPaper-main)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/14_variation_in_temperature_of_peak.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-023-02301-8" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

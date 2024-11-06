@@ -13,6 +13,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://peerj.com/articles/4363/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.4363" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

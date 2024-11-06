@@ -13,6 +13,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Preprint</span>](https://doi.org/10.1101/2022.09.08.507143)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/hillerlab/TOGA)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/13_TOGA.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1126/science.abn3107" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

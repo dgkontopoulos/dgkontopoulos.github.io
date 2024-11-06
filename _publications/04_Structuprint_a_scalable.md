@@ -14,6 +14,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](https://dgkontopoulos.github.io/Structuprint/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/Structuprint)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/4_Structuprint.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s12900-016-0055-7" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

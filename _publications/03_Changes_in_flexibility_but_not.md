@@ -10,6 +10,7 @@ pubtype: 'preprint'
 excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/03_Changes_in_flexibility_but_not)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/2024.09.04.611173)
+<br>
 '
 ---
 

@@ -14,6 +14,9 @@ excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/08_Role_of_carbon)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1073/pnas.1800222115)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/8_Role_of_carbon.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1800222115" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

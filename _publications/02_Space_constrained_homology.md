@@ -13,6 +13,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Website</span>](https://dgkontopoulos.github.io/space_molding/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Source code</span>](https://github.com/dgkontopoulos/space_molding)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Space_constrained.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1155/2013/108910" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

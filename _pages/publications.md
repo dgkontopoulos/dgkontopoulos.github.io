@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

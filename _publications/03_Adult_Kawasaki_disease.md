@@ -13,6 +13,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s13256-015-0516-9" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 

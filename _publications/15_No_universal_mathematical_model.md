@@ -3,7 +3,8 @@ title: "<b>15\\.</b>
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Sentis, A., Daufresne, M., Glazman, N., Dell, A.I., and Pawar, S. (2024). **No universal 
 mathematical model for thermal performance curves across traits and taxonomic groups.** 
-Nature Communications 15:8855. <img src='../images/open_access.png'>"
+Nature Communications 15:8855. <img src='../images/open_access.png'>
+"
 collection: publications
 permalink: /publication/15_No_universal_mathematical_model
 pubtype: 'peer-reviewed'
@@ -13,6 +14,9 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_83_TPC_models_2024)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.24106161.v3)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/15_no_universal_mathematical_model.bib)
+\|
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-53046-2" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 
