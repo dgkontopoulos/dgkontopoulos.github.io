@@ -7,7 +7,7 @@ Pippel, M., Dávalos, L.M., Vernes, S.C., Puechmaille, S.J.,
 Rossiter, S.J., Yossi, Y., Prescott, J.B., Kurth, A., Ray, D.A., 
 Lim, B.K., Myers, E., Teeling, E.C., Banerjee, A., Irving, A.T.<sup><a title='Corresponding author'>✉</a></sup>, and 
 Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2023). **Reference-quality 
-bat genomes illuminate adaptations to viral tolerance and disease resistance.** Research Square. <img src='../images/under_review.png'>"
+bat genomes illuminate adaptations to viral tolerance and disease resistance.** Research Square. <img src='../images/in_press.png'>"
 collection: publications
 permalink: /publication/01_Reference_quality_bat_genomes
 pubtype: 'preprint'
