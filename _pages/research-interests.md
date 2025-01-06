@@ -80,10 +80,10 @@ ecoinformatics, and comparative genomics.
 
 <br><br>
 Selected key publications:<ul>
-<li>Kontopoulos, D.-G., Levesque, D.L., and Hiller, M. (2023).
-<a href='../publication/02_Numerous_independent_gains'>Numerous 
-independent gains of torpor and hibernation across endotherms, linked with 
-adaptation to diverse environments.</a> bioRxiv 2023.12.12.571278.</li>
+<li>Kontopoulos, D.-G., Levesque, D.L., and Hiller, M. (2025).
+<a href='../publication/16_Numerous_independent_gains'>Numerous 
+independent gains of daily torpor and hibernation across endotherms, linked with 
+adaptation to diverse environments.</a> Functional Ecology.</li>
 </ul>
 </font>
 </p>

@@ -9,6 +9,10 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2025-01-06</b> - The <a href='../publication/16_Numerous_independent_gains'>first paper from my EMBO postdoc</a> is out today in Functional Ecology! &nbsp; &#128515;
+
+<br><br>
+
 <b>2024-10-14</b> - My <a href='../publication/15_No_universal_mathematical_model'>systematic comparison of 83 thermal 
 performance curve models</a> was published in Nature Communications! &nbsp; &#127881; &#127881; &#127881;
 
