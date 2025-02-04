@@ -18,6 +18,7 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/17_Bat_genomes.bib)
 \|
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08471-0" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+<br>
 '
 ---
 
