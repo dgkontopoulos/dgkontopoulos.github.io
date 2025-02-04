@@ -10,6 +10,7 @@ pubtype: 'peer-reviewed'
 excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/16_Numerous_independent_gains)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1111/1365-2435.14739)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Plain Language Summary</span>](https://fesummaries.wordpress.com/2024/12/20/repeated-evolution-of-torpor-throughout-the-evolutionary-history-of-mammals-and-birds/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_torpor_evolution_2025)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.24746283.v3)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/16_Numerous_independent_gains.bib)
@@ -48,6 +49,7 @@ excerpt: '
 </p>
 
 [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1111/1365-2435.14739)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Plain Language Summary</span>](https://fesummaries.wordpress.com/2024/12/20/repeated-evolution-of-torpor-throughout-the-evolutionary-history-of-mammals-and-birds/)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_torpor_evolution_2025)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.24746283.v3)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/16_Numerous_independent_gains.bib)
