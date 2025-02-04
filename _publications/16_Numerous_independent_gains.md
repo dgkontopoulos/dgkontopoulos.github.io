@@ -21,7 +21,7 @@ excerpt: '
 ---
 
 {{ page.title }}<br>
-<br><center><img src="../images/publications/dormancy_evolution.png"></center>
+<br><center><img src="../images/publications/torpor_evolution.png"></center>
 
 ### Abstract:
 
