@@ -26,7 +26,7 @@ comparative genomics, machine learning).
 I am currently a <b>postdoctoral fellow</b> at the 
 <a href="https://tbg.senckenberg.de/hillerlab/">Hiller group of LOEWE-TBG</a>, 
 investigating the genomic, physiological, and ecological drivers of 
-dormancy across birds and mammals. Prior to this, I did a PhD at 
+torpor across birds and mammals. Prior to this, I did a PhD at 
 Imperial College London (primarily supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in 
 which I mainly examined how microbial growth rate responds to changes in 
 temperature across species and environments.
@@ -47,10 +47,12 @@ For more information, click on the tabs at the top of this page.
   <div class="text"><font size = '3.5' color = "#000000">Word cloud based on the abstracts of my papers.</font></div>
 </div>
 
+<!--
 <div class="mySlides fade">
   <img src="images/publications/word_network.png" style="width:80%">
   <div class="text"><font size = '3.5' color = "#000000">Network of semantically related terms from the abstracts of my papers.</font></div>
 </div>
+-->
 
 <div class="mySlides fade">
   <img src="images/Volos.jpg" style="width:80%">
@@ -68,7 +70,7 @@ Volos, Greece, my hometown.</b></font><br><br><font size = "2.5" style = "text-s
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
+<!--  <span class="dot" onclick="currentSlide(3)"></span> -->
 </div>
 
 <script>
