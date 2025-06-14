@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Dimitrios - Georgios Kontopoulos"
   avatar           : "avatar.jpg"
-  bio              : "Postdoctoral Fellow (he/him)<br><br>I strive to understand <b>the responses of diverse biological systems to past and contemporary climate change</b>."
-  location         : "LOEWE Centre for Translational<br>Biodiversity Genomics &<br>Senckenberg Research Institute,<br>Frankfurt, Germany"
+  bio              : "Walter Benjamin Postdoctoral Fellow (he/him)<br><br>I strive to understand <b>the responses of diverse biological systems to past and contemporary climate change</b>."
+  location         : "Department of Ecology and<br>Evolutionary Biology, UCLA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HhRasxEAAAAJ&hl"
   email            : "dgkontopoulos[AT]gmail[DOT]com"
@@ -189,16 +189,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: ""

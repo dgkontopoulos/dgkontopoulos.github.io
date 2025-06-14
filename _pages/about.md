@@ -18,18 +18,24 @@ systems respond to environmental changes.
 My research spans <b>levels of biological organization</b> (from molecules to ecosystems), 
 <b>taxonomic groups</b> (from microbes to birds and mammals), 
 <b>timescales</b> (from seconds to millions of years), and 
-<b>methodological approaches</b> (e.g., ecoinformatics, phylogenetic comparative methods, 
-comparative genomics, machine learning).
+<b>approaches</b> (e.g., ecoinformatics, phylogenetic comparative methods, 
+genomics, fieldwork, experiments).
 
 <br><br>
 
-I am currently a <b>postdoctoral fellow</b> at the 
-<a href="https://tbg.senckenberg.de/hillerlab/">Hiller group of LOEWE-TBG</a>, 
-investigating the genomic, physiological, and ecological drivers of 
-torpor across birds and mammals. Prior to this, I did a PhD at 
-Imperial College London (primarily supervised by <a href="https://pawarlab.org">Samraat Pawar</a>), in 
-which I mainly examined how microbial growth rate responds to changes in 
-temperature across species and environments.
+I am currently a <b>Walter Benjamin Postdoctoral Fellow</b> at UCLA, 
+kindly funded by the <a href='https://www.dfg.de/en'>German Research Foundation</a>. 
+Here, I work with <a href='https://pinterwollmanlab.eeb.ucla.edu/'>Noa Pinter-Wollman</a> 
+to investigate how the social behavior of ants responds to changes in temperature.
+
+<br><br>
+
+Prior to this, I was an EMBO Postdoctoral Fellow at <a href='https://tbg.senckenberg.de/hillerlab/'>Michael Hiller's group</a>, 
+working on the evolution of torpor across mammals and birds. My PhD was 
+on the thermal adaptation of microbes (mainly), under the supervision of
+<a href='https://profiles.imperial.ac.uk/s.pawar'>Samraat Pawar</a>, 
+<a href='https://www.biology.ox.ac.uk/people/tim-barraclough'>Tim Barraclough</a>, 
+and <a href='https://profiles.imperial.ac.uk/c.prentice'>Colin Prentice</a>.
 
 <br><br>
 For more information, click on the tabs at the top of this page.

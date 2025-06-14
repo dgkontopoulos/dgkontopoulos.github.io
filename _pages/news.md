@@ -9,6 +9,12 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2025-06-02</b> - I received a Walter Benjamin Fellowship by the German Research Foundation to 
+examine how temperature affects the social behavior of ants! I will do so in Noa 
+Pinter-Wollman's lab at UCLA and today is my first day!
+
+<br><br>
+
 <b>2025-01-06</b> - The <a href='../publication/16_Numerous_independent_gains'>first paper from my EMBO postdoc</a> is out today in Functional Ecology! &nbsp; &#128515;
 
 <br><br>
