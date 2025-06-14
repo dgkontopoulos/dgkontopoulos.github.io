@@ -9,7 +9,7 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
-<b>2025-06-02</b> - I received a Walter Benjamin Fellowship by the German Research Foundation to 
+<b>2025-06-02</b> - I received a Walter Benjamin Fellowship from the German Research Foundation to 
 examine how temperature affects the social behavior of ants! I will do so in Noa 
 Pinter-Wollman's lab at UCLA and today is my first day!
 
