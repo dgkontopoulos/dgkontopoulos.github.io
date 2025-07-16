@@ -3,7 +3,7 @@ title: "<b>2\\.</b>
 Yi, X.<sup><a title='Corresponding author'>✉</a></sup>, 
 <u>Kontopoulos, D.-G.</u>, and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2025). **Comprehensive 
 phylogenetic reconstructions support ancestral omnivory in the ecologically 
-diverse bat family Phyllostomidae** bioRxiv 2025.02.04.636560. <img src='../images/under_review.png'>"
+diverse bat family Phyllostomidae.** bioRxiv 2025.02.04.636560. <img src='../images/in_press.png'>"
 collection: publications
 permalink: /publication/02_Comprehensive_phylogenetic_reconstructions
 pubtype: 'preprint'
