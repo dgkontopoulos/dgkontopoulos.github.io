@@ -129,6 +129,6 @@ other species. We still have a poor understanding of the effects of
 environmental factors on social behavior. To address 
 this, I sample Argentine ants (<i>Linepithema humile</i>) from natural 
 colonies and monitor their social behavior during experiments at different 
-temperature and humidity levels.
+temperatures and humidity levels.
 </font>
 </p>
