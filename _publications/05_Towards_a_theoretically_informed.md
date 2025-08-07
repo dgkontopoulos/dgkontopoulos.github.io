@@ -4,7 +4,7 @@ title: "<b>5\\.</b>
 Kontopoulou, T., Ho, H.-C., and García-Carreras, B. 
 (2017). **Towards a theoretically informed policy against a rakghoul 
 plague outbreak.** 
-The Medical Journal of Australia 207(11):490-494. <img src='../images/open_access.png'>"
+The Medical Journal of Australia 207(11):490-494. <img src='../images/open_access.png'><br> [<font color = 'green'>Third place in the 2017 Christmas Competition of the Medical Journal of Australia</font>]"
 collection: publications
 permalink: /publication/05_Towards_a_theoretically_informed
 pubtype: 'peer-reviewed'

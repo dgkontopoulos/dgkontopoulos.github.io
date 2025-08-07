@@ -9,6 +9,10 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2025-08-06</b> - My new <a href='../publication/18_Changes_in_flexibility_but_not'>Evolution Letters</a> paper is out today!
+
+<br><br>
+
 <b>2025-06-02</b> - I received a Walter Benjamin Fellowship from the German Research Foundation to 
 examine how temperature affects the social behavior of ants! I will do so in Noa 
 Pinter-Wollman's lab at UCLA and today is my first day!

@@ -3,7 +3,7 @@ title: "<b>16\\.</b>
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Levesque, D.L., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2025). **Numerous 
 independent gains of daily torpor and hibernation across endotherms, linked with 
-adaptation to diverse environments.** Functional Ecology. <img src='../images/open_access.png'>"
+adaptation to diverse environments.** Functional Ecology 39(3):824-839. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/16_Numerous_independent_gains
 pubtype: 'peer-reviewed'

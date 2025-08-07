@@ -26,7 +26,7 @@ author_profile: true
 -->
 
 
-<h2><b><font color = 'orange'>Preprints</font></b></h2><hr>
+<!---<h2><b><font color = 'orange'>Preprints</font></b></h2><hr>-->
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
