@@ -28,6 +28,12 @@ Society for Evolutionary Biology in Groningen, the Netherlands.
 
 <br>
 <h2><b><font color = 'orange'>Miscellaneous</font></b></h2>
+<b>3\.</b> The paper "<a href='../publication/15_No_universal_mathematical_model'>No universal 
+mathematical model for thermal performance curves across traits and taxonomic groups</a>" received the co-second place for the 2025 Outstanding 
+Paper Award from the Early Career Ecologists Section of the Ecological Society 
+of America.
+
+
 <b>2\.</b> The paper 
 "<a href='../publication/09_Phytoplankton_thermal_responses_adapt'>Phytoplankton 
 thermal responses adapt in the absence of hard thermodynamic constraints</a>"

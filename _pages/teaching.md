@@ -39,10 +39,16 @@ MSc/MRes programmes, Imperial College London, 2014-15.
 
 <br>
 
-<h1>Students (co-)supervised</h1>
+<h1>Students supervised</h1>
+
+<h2><b><font color = 'orange'>Master's thesis students</font></b></h2>
+
 <b>3\. George Kalogiannis</b>, MRes student at Imperial College London, 2024.
 
 <b>2\. Aditi Madkaikar</b>, MRes student at Imperial College London, 2023.
 
 <b>1\. Kate Griffin</b>, MSc student at Imperial College London, 2022.
 
+<h2><b><font color = 'orange'>Interns</font></b></h2>
+
+<b>1\. Catherine Tran</b>, BS student at the University of California, Los Angeles, 2025.

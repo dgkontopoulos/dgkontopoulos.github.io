@@ -9,6 +9,12 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2025-09-18</b> - My <a href='../publication/15_No_universal_mathematical_model'>Nature Communications</a> paper was a runner-up for the 
+2025 Outstanding Paper Award from the Early Career Ecologists Section of the 
+Ecological Society of America! &nbsp; &#128513;
+
+<br><br>
+
 <b>2025-08-06</b> - My new <a href='../publication/18_Changes_in_flexibility_but_not'>Evolution Letters</a> paper is out today!
 
 <br><br>

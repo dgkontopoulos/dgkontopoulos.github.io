@@ -3,13 +3,13 @@ title: "<b>18\\.</b>
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Patmanidis, I., Barraclough, T., and Pawar, S. (2025). **Changes 
 in flexibility but not in compactness underlie the thermal adaptation of 
-prokaryotic adenylate kinases.** Evolution Letters qraf026. <img src='../images/open_access.png'>"
+prokaryotic adenylate kinases.** Evolution Letters 9(5):598-609. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/18_Changes_in_flexibility_but_not
 pubtype: 'peer-reviewed'
 excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/18_Changes_in_flexibility_but_not)
-\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf026/8223096)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/evlett/qraf026)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://codeberg.org/dgkontopoulos/Kontopoulos_et_al_evolution_of_ADK_structures_2025)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.28436891)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/18_Changes_in_flexibility_but_not.bib)
@@ -47,7 +47,7 @@ prokaryotic adenylate kinases to extreme thermal environments and that
 these paths are generally accessible through changes in flexibility.
 </p>
 
-[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf026/8223096)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/evlett/qraf026)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://codeberg.org/dgkontopoulos/Kontopoulos_et_al_evolution_of_ADK_structures_2025)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.28436891)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/18_Changes_in_flexibility_but_not.bib)
