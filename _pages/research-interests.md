@@ -96,7 +96,7 @@ Selected key publications:<ul style="margin-left: 40px; padding-left: 20px; text
 <li>Kontopoulos, D.-G., Patmanidis, I., Barraclough, T.G., and Pawar, S. (2025). 
 <a href='../publication/18_Changes_in_flexibility_but_not'> Changes in 
 flexibility but not in compactness underlie the thermal adaptation of 
-prokaryotic adenylate kinases.</a> Evolution Letters qraf026.</li>
+prokaryotic adenylate kinases.</a> Evolution Letters 9(5):598-609.</li>
 </ul>
 </font>
 </p>
