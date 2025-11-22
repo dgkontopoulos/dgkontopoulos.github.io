@@ -6,7 +6,7 @@ Bestion, E., Schaum, C.-E., Yvon-Durocher, G., and
 Pawar, S.<sup><a title='Corresponding author'>✉</a></sup>
 (2018). **Role of carbon allocation efficiency in the temperature 
 dependence of autotroph growth rates.** 
-PNAS 115(31):E7361-E7368. <img src='../images/open_access.png'>"
+Proceedings of the National Academy of Sciences 115(31):E7361-E7368. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/08_Role_of_carbon
 pubtype: 'peer-reviewed'

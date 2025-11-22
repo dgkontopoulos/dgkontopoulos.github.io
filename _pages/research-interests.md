@@ -112,6 +112,14 @@ exhibit various evolutionary patterns across species, such as positive selection
 evolutionary rate shifts, or even gene loss in lineages where the trait 
 is also lost. Thus, I perform genome-wide screens for such molecular 
 patterns to uncover genomic underpinnings of adaptation.
+
+<br><br>
+Selected key publications:<ul style="margin-left: 40px; padding-left: 20px; text-align: justify">
+<li>Kontopoulos, D.-G., Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M. (2025). 
+<a href='../publication/01_Comparative_genomics_indicate'> Comparative 
+genomics indicate multiple genetic routes to the evolution of torpor in 
+placental mammals.</a> bioRxiv 2025.11.18.689136.</li>
+</ul>
 </font>
 </p>
 <br><br>

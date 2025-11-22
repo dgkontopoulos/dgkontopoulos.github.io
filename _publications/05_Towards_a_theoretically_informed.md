@@ -12,7 +12,6 @@ excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/05_Towards_a_theoretically_informed)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://www.mja.com.au/journal/2017/207/11/towards-theoretically-informed-policy-against-rakghoul-plague-outbreak)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Towards_a_theoretically_informed.bib)
-\|
 <span class="__dimensions_badge_embed__" data-doi="10.5694/mja17.00792" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
 <br>
 '

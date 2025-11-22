@@ -26,7 +26,7 @@ author_profile: true
 -->
 
 
-<!---<h2><b><font color = 'orange'>Preprints</font></b></h2><hr>-->
+<h2><b><font color = 'orange'>Preprints</font></b></h2><hr>
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
@@ -41,6 +41,16 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'peer-reviewed' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<br>
+
+<h2><b><font color = 'orange'>Commentaries</font></b></h2><hr>
+
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'commentary' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}

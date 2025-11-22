@@ -12,6 +12,7 @@ excerpt: '
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf154/8222499)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/xuelingyi/Bat_Diet_Reconstruct)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/19_Comprehensive_phylogenetic_reconstructions.bib)
+\|
 <span class="__dimensions_badge_embed__" data-doi="10.1093/evolut/qpaf154" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
 <br>
 '
