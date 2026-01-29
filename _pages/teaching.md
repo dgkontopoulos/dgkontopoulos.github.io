@@ -51,4 +51,5 @@ MSc/MRes programmes, Imperial College London, 2014-15.
 
 <h2><b><font color = 'orange'>Interns</font></b></h2>
 
-<b>1\. Catherine Tran</b>, BS student at the University of California, Los Angeles, 2025.
+<b>2\. Sofia Barreras</b>, BS student at the University of California, Los Angeles, 2026.
+<b>1\. Catherine Tran</b>, BS student at the University of California, Los Angeles, 2025-26.
