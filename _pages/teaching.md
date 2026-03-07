@@ -7,6 +7,10 @@ redirect_from:
 
 <h1><b>Teaching</b></h1>
 
+<h2><b><font color = 'orange'>Certification</font></b></h2>
+
+<b>Associate Teaching Certificate</b>, Center for the Integration of Research, Teaching, and Learning, 2026.
+
 <h2><b><font color = 'orange'>Course Demonstration</font></b></h2>
 
 <b>5\. Further Topics in Statistics</b>, MSc "Ecology, Evolution and 

@@ -124,19 +124,19 @@ placental mammals.</a> bioRxiv 2025.11.18.689136.</li>
 </p>
 <br><br>
 
-<b><font color = 'orange'>3. Environmental effects on social behavior</font></b>
+<b><font color = 'orange'>3. Environmental effects on collective behavior</font></b>
 
 <p></p>
 
 <p style="margin-left: 40px;" align = "justify"><font size = "3">
 <img src="../images/argentine_ants.png" max-width = "40%" width = "40%" height = "auto" align = "right" hspace = "30" vspace = "10">
-Social behavior is widespread in the animal kingdom because it can 
+Social interactions are widespread in the animal kingdom because they can 
 significantly improve the survival and reproductive success of individuals, 
 influence the dynamics of entire populations, and their interactions with 
 other species. We still have a poor understanding of the effects of 
-environmental factors on social behavior. To address 
+environmental factors on collective behavior. To address 
 this, I sample Argentine ants (<i>Linepithema humile</i>) from natural 
-colonies and monitor their social behavior during experiments at different 
+colonies and examine their collective behavior during experiments at different 
 temperatures and humidity levels.
 </font>
 </p>
