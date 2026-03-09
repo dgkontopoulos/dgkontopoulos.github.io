@@ -2,7 +2,7 @@
 title: "<b>1\\.</b> 
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2025). **Comparative 
-genomics indicate multiple genetic routes to the evolution of torpor in placental mammals.** bioRxiv 2025.11.18.689136. <img src='../images/preprint.png'>"
+genomics indicate multiple genetic routes to the evolution of torpor in placental mammals.** bioRxiv 2025.11.18.689136. <img src='../images/under_review.png'>"
 collection: publications
 permalink: /publication/01_Comparative_genomics_indicate
 pubtype: 'preprint'
