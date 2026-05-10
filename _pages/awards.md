@@ -21,10 +21,12 @@ from the <b>Greek State Scholarships Foundation (ΙΚΥ)</b>.
 <br>
 <h2><b><font color = 'orange'>Conference travel awards</font></b></h2>
 
+<b>2\.</b> Travel award from the <b>Hellenic Bioscientific Association of the USA</b> for attending the 2026 Annual
+Meeting of the Ecological Society of America.
+
 <b>1\.</b> Travel award from the <b>Department of Life Sciences, Imperial 
 College London</b> for attending the 2017 Congress of the European 
 Society for Evolutionary Biology in Groningen, the Netherlands. 
-<!--\[[<span class="underline-on-hover" style="color:#2ea9d8">Report</span>](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-life-sciences/public/dols-travel-awards/reports/Kontopoulos_DG_2017_report.pdf)\]-->
 
 <br>
 <h2><b><font color = 'orange'>Miscellaneous</font></b></h2>

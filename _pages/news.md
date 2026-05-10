@@ -9,6 +9,13 @@ redirect_from:
 <div style='text-align:justify'>
 <p style='display:inline'>
 
+<b>2026-04-03</b> - I received a Scholarship Award from the Hellenic 
+Bioscientific Association of the USA which will allow me to present 
+my latest research at the 2026 Annual Meeting of the Ecological Society
+of America! &nbsp; &#128591;
+
+<br><br>
+
 <b>2025-09-18</b> - My <a href='../publication/15_No_universal_mathematical_model'>Nature Communications</a> paper was a runner-up for the 
 2025 Outstanding Paper Award from the Early Career Ecologists Section of the 
 Ecological Society of America! &nbsp; &#128513;
@@ -44,7 +51,7 @@ and mammals!
 <br><br>
 
 <b>2021-05-01</b> - I started a postdoc with <a href='https://tbg.senckenberg.de/hillerlab/'>Michael Hiller</a> 
-and will soon be based at Frankfurt, Germany!
+and will soon be based in Frankfurt, Germany!
 
 <br><br>
 
