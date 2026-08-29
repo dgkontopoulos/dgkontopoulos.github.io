@@ -27,3 +27,13 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<br>
+
+<h2><b><font color = 'orange'>Invited round table discussions</font></b></h2><hr>
+
+{% for post in site.talks reversed %}
+  {% if post.talktype == 'invited_round_table' %}
+      {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+

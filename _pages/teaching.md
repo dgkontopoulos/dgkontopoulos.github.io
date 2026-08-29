@@ -11,6 +11,10 @@ redirect_from:
 
 <b>Associate Teaching Certificate</b>, Center for the Integration of Research, Teaching, and Learning, 2026.
 
+<h2><b><font color = 'orange'>Course syllabi designed</font></b></h2>
+
+<b>Introduction to Thermal Biology</b> (semester-long), 2025.
+
 <h2><b><font color = 'orange'>Course Demonstration</font></b></h2>
 
 <b>5\. Further Topics in Statistics</b>, MSc "Ecology, Evolution and 
@@ -53,8 +57,12 @@ MSc/MRes programmes, Imperial College London, 2014-15.
 
 <b>1\. Kate Griffin</b>, MSc student at Imperial College London, 2022.
 
-<h2><b><font color = 'orange'>Interns</font></b></h2>
+<h2><b><font color = 'orange'>Undergraduate interns</font></b></h2>
 
 <b>2\. Sofia Barreras</b>, BS student at the University of California, Los Angeles, 2026.
 
 <b>1\. Catherine Tran</b>, BS student at the University of California, Los Angeles, 2025-26.
+
+<h2><b><font color = 'orange'>High school student interns</font></b></h2>
+
+<b>1\. Nathan Kuo</b>, Los Angeles, 2026.

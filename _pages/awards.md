@@ -8,7 +8,7 @@ redirect_from:
 
 <h2><b><font color = 'orange'>Scholarships / Fellowships</font></b></h2>
 
-<b>4\.</b> Walter Benjamin Postdoctoral Fellowship from the <b>German Research Foundation - DFG</b> (2025-2027).
+<b>4\.</b> Walter Benjamin Postdoctoral Fellowship from the <b>German Research Foundation - DFG</b> (2025-2028).
 
 <b>3\. EMBO</b> Postdoctoral Fellowship (2022-2024).
 

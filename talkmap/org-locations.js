@@ -73,5 +73,15 @@ var addressPoints = [
     "Clermont-Ferrand, France",
     45.7774551,
     3.0819427
+  ],
+  [
+    "Salt Lake City, UT, United States of America",
+    40.760833,
+    -111.891111
+  ],
+  [
+    "Freiburg im Breisgau, Germany",
+    47.995,
+    7.85
   ]
 ];
