@@ -1,16 +1,16 @@
 ---
-title: "<b>2\\.</b> 
+title: "<b>1\\.</b> 
 Hilgers, L.<sup><a title='Corresponding author'>✉</a></sup>, Rovatsos, M., <u>Kontopoulos, D.-G.</u>, 
 Brown, T., Hickler, T., Huntley, B., Pippel, M., Munegowda, C., Müller, T., 
 Ahmed, A.-W., Laas, A., Praschag, P., Damas, J., Winkler, S., Lewin, H., Myers, E., Fritz, U., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2026). **Side-necked 
 turtle genomes reveal chromosomal dynamics, skeletal innovation and cancer resistance.** bioRxiv 2026.03.05.709825. <img src='../images/under_review.png'>"
 collection: publications
-permalink: /publication/02_Side_necked_turtle_genomes
+permalink: /publication/01_Side_necked_turtle_genomes
 pubtype: 'preprint'
 excerpt: '
   [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/02_Side_necked_turtle_genomes)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.64898/2026.03.05.709825)
-\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/02_Side_necked_turtle_genomes.bib)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/01_Side_necked_turtle_genomes.bib)
 <span class="__dimensions_badge_embed__" data-doi="10.64898/2026.03.05.709825" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
 <br>
 '
@@ -51,4 +51,4 @@ evolution, molecular insights into skeletal innovation and cancer resistance,
 and implicate gene losses as a recurrent contributor to evolutionary novelty.</p>
 
 [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.64898/2026.03.05.709825)
-\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/02_Side_necked_turtle_genomes.bib)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/01_Side_necked_turtle_genomes.bib)

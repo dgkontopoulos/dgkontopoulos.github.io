@@ -1,18 +1,19 @@
 ---
-title: "<b>1\\.</b> 
+title: "<b>20\\.</b> 
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
-Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2025). **Lack of 
-evidence for gene-level convergence linked to evolutionary shifts in torpor among placental mammals.** bioRxiv 2025.11.18.689136. <img src='../images/in_press.png'>"
+Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2026). **Lack of 
+evidence for gene-level convergence linked to evolutionary shifts in torpor among placental mammals.** Genome Biology 
+and Evolution evag216. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/01_Lack_of_evidence_for_gene_level
-pubtype: 'preprint'
+permalink: /publication/20_Lack_of_evidence_for_gene_level
+pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/01_Lack_of_evidence_for_gene_level)
-\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/2025.11.18.689136)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/20_Lack_of_evidence_for_gene_level)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/gbe/evag216)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://codeberg.org/dgkontopoulos/Kontopoulos_et_al_torpor_genomics_placental_mammals)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.30603461.v2)
-\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/01_Lack_of_evidence_for_gene_level.bib)
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2025.11.18.689136" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/20_Lack_of_evidence_for_gene_level.bib)
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evag216" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
 <br>
 '
 ---
@@ -39,7 +40,7 @@ genetic routes in placental mammals, which likely explains the vast
 diversity of torpor use patterns that can be observed among torpor-capable 
 species today.</p>
 
-[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1101/2025.11.18.689136)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/gbe/evag216)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://codeberg.org/dgkontopoulos/Kontopoulos_et_al_torpor_genomics_placental_mammals)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.30603461.v2)
-\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/01_Lack_of_evidence_for_gene_level.bib)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/20_Lack_of_evidence_for_gene_level.bib)

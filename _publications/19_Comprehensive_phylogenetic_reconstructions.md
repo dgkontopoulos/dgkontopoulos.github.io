@@ -2,16 +2,16 @@
 title: "<b>19\\.</b> 
 Yi, X.<sup><a title='Corresponding author'>✉</a></sup>, 
 <u>Kontopoulos, D.-G.</u>, and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2025). **Comprehensive 
-phylogenetic reconstructions support ancestral omnivory in the ecologically 
-diverse bat family Phyllostomidae.** Evolution qpaf154. <img src='../images/open_access.png'>"
+phylogenetic trait estimations support ancestral omnivory in the ecologically 
+diverse bat family Phyllostomidae.** Evolution 79(11):2406-2420. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/19_Comprehensive_phylogenetic_reconstructions
+permalink: /publication/19_Comprehensive_phylogenetic_trait
 pubtype: 'peer-reviewed'
 excerpt: '
-  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/19_Comprehensive_phylogenetic_reconstructions)
-\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf154/8222499)
+  [<span class="underline-on-hover" style="color:#2ea9d8">Abstract</span>](../publication/19_Comprehensive_phylogenetic_trait)
+\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/evolut/qpaf154)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/xuelingyi/Bat_Diet_Reconstruct)
-\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/19_Comprehensive_phylogenetic_reconstructions.bib)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/19_Comprehensive_phylogenetic_trait.bib)
 \|
 <span class="__dimensions_badge_embed__" data-doi="10.1093/evolut/qpaf154" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle" style="display: inline;"></span>
 <br>
@@ -48,6 +48,6 @@ may be a precondition but does not necessarily lead to adaptive radiations
 which also require subsequent niche partitioning.
 </p>
 
-[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf154/8222499)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/evolut/qpaf154)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://github.com/xuelingyi/Bat_Diet_Reconstruct)
-\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/19_Comprehensive_phylogenetic_reconstructions.bib)
+\| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/19_Comprehensive_phylogenetic_trait.bib)

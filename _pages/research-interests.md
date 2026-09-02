@@ -116,9 +116,9 @@ patterns to uncover genomic underpinnings of adaptation.
 <br><br>
 Selected key publications:<ul style="margin-left: 40px; padding-left: 20px; text-align: justify">
 <li>Kontopoulos, D.-G., Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M. (2025). 
-<a href='../publication/01_Lack_of_evidence_for_gene_level'> Lack of 
+<a href='../publication/20_Lack_of_evidence_for_gene_level'> Lack of 
 evidence for gene-level convergence linked to evolutionary shifts in torpor among 
-placental mammals..</a> bioRxiv 2025.11.18.689136.</li>
+placental mammals.</a> Genome Biology and Evolution evag216.</li>
 </ul>
 </font>
 </p>
