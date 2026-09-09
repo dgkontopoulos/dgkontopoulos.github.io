@@ -1,4 +1,5 @@
 ---
+title: "Teaching & supervision"
 permalink: /teaching_supervision/
 author_profile: true
 redirect_from: 
