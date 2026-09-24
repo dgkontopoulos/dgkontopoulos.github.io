@@ -3,7 +3,7 @@ title: "<b>20\\.</b>
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M.<sup><a title='Corresponding author'>✉</a></sup> (2026). **Lack of 
 evidence for gene-level convergence linked to evolutionary shifts in torpor among placental mammals.** Genome Biology 
-and Evolution evag216. <img src='../images/open_access.png'>"
+and Evolution 18(9):evag216. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/20_Lack_of_evidence_for_gene_level
 pubtype: 'peer-reviewed'

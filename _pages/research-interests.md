@@ -118,7 +118,7 @@ Selected key publications:<ul style="margin-left: 40px; padding-left: 20px; text
 <li>Kontopoulos, D.-G., Ahmed, A.-W., Bein, B., Levesque, D.L., and Hiller, M. (2025). 
 <a href='../publication/20_Lack_of_evidence_for_gene_level'> Lack of 
 evidence for gene-level convergence linked to evolutionary shifts in torpor among 
-placental mammals.</a> Genome Biology and Evolution evag216.</li>
+placental mammals.</a> Genome Biology and Evolution 18(9):evag216.</li>
 </ul>
 </font>
 </p>
