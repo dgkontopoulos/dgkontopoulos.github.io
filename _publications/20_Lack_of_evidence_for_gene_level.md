@@ -40,7 +40,7 @@ genetic routes in placental mammals, which likely explains the vast
 diversity of torpor use patterns that can be observed among torpor-capable 
 species today.</p>
 
-\| [<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/gbe/evag216)
+[<span class="underline-on-hover" style="color:#2ea9d8">Full text</span>](https://doi.org/10.1093/gbe/evag216)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Code</span>](https://codeberg.org/dgkontopoulos/Kontopoulos_et_al_torpor_genomics_placental_mammals)
 \| [<span class="underline-on-hover" style="color:#2ea9d8">Data</span>](https://doi.org/10.6084/m9.figshare.30603461.v2)
 \| [<span class="underline-on-hover" style="color:#2ea9d8"><img src="../images/bibtex.svg">citation</span>](../bibtex/20_Lack_of_evidence_for_gene_level.bib)
