@@ -6,6 +6,6 @@ collection: talks
 type: "poster presentation"
 venue: Southern California Animal Behavior Meeting
 date: 2026-04-18
-location: "Claremont, CA, United States of America,"
+location: "Claremont, CA, United States of America"
 talktype: 'contributed'
 ---
